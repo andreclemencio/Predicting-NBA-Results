@@ -1,0 +1,1312 @@
+2.7	1.5	Philadelphia 76ers	Boston Celtics	1016
+8.11	1.0909090909090908	Oklahoma City Thunder	Golden State Warriors	1016
+1.606060606060606	2.44	Milwaukee Bucks	Charlotte Hornets	1017
+3.11	1.392156862745098	Brooklyn Nets	Detroit Pistons	1017
+3.63	1.3076923076923077	Memphis Grizzlies	Indiana Pacers	1017
+1.7407407407407407	2.15	Miami Heat	Orlando Magic	1017
+2.48	1.5882352941176472	Atlanta Hawks	New York Knicks	1017
+8.969999999999999	1.0769230769230769	Cleveland Cavaliers	Toronto Raptors	1017
+3.78	1.289855072463768	New Orleans Pelicans	Houston Rockets	1017
+2.25	1.6896551724137931	Minnesota Timberwolves	San Antonio Spurs	1017
+1.25	4.17	Utah Jazz	Sacramento Kings	1017
+1.8	2.05	Denver Nuggets	Los Angeles Clippers	1017
+1.7692307692307692	2.1	Dallas Mavericks	Phoenix Suns	1017
+8.33	1.0869565217391304	Chicago Bulls	Philadelphia 76ers	1018
+3.15	1.3846153846153846	Miami Heat	Washington Wizards	1018
+2.35	1.6451612903225805	Los Angeles Lakers	Portland Trail Blazers	1018
+1.8	2.05	Charlotte Hornets	Orlando Magic	1019
+2.48	1.5882352941176472	New York Knicks	Brooklyn Nets	1019
+3.37	1.3448275862068966	Atlanta Hawks	Memphis Grizzlies	1019
+4.34	1.2352941176470589	Cleveland Cavaliers	Minnesota Timberwolves	1019
+7.64	1.1	Sacramento Kings	New Orleans Pelicans	1019
+2.35	1.6451612903225805	Boston Celtics	Toronto Raptors	1019
+2.44	1.606060606060606	Indiana Pacers	Milwaukee Bucks	1019
+2.3	1.6666666666666665	Oklahoma City Thunder	Los Angeles Clippers	1019
+1.7407407407407407	2.15	Golden State Warriors	Utah Jazz	1019
+4.029999999999999	1.263157894736842	Brooklyn Nets	Indiana Pacers	1020
+2.1	1.7692307692307692	Toronto Raptors	Washington Wizards	1020
+1.2	4.84	Boston Celtics	New York Knicks	1020
+8.969999999999999	1.0769230769230769	Orlando Magic	Philadelphia 76ers	1020
+1.5	2.7	Detroit Pistons	Chicago Bulls	1020
+2.35	1.6451612903225805	Charlotte Hornets	Miami Heat	1020
+2.1	1.7692307692307692	Minnesota Timberwolves	Dallas Mavericks	1020
+5.59	1.1612903225806452	Phoenix Suns	Denver Nuggets	1020
+2.7199999999999998	1.4878048780487805	San Antonio Spurs	Portland Trail Blazers	1020
+1.625	2.4	Houston Rockets	Los Angeles Lakers	1020
+4.029999999999999	1.263157894736842	Atlanta Hawks	Cleveland Cavaliers	1021
+5.77	1.1538461538461537	Sacramento Kings	Oklahoma City Thunder	1021
+1.529100529100529	2.63	Golden State Warriors	Denver Nuggets	1021
+2.15	1.7407407407407407	Houston Rockets	Los Angeles Clippers	1021
+7.11	1.1118568232662192	Orlando Magic	Boston Celtics	1022
+4.17	1.25	Charlotte Hornets	Toronto Raptors	1022
+7.14	1.1111111111111112	New York Knicks	Milwaukee Bucks	1022
+2.1	1.7692307692307692	Indiana Pacers	Minnesota Timberwolves	1022
+2.7	1.5	Chicago Bulls	Dallas Mavericks	1022
+6.06	1.1428571428571428	Memphis Grizzlies	Utah Jazz	1022
+2.6	1.5405405405405406	Washington Wizards	Portland Trail Blazers	1022
+8.969999999999999	1.0769230769230769	Phoenix Suns	Golden State Warriors	1022
+2.1	1.7692307692307692	San Antonio Spurs	Los Angeles Lakers	1022
+1.8333333333333335	2.0	Philadelphia 76ers	Detroit Pistons	1023
+3.03	1.4081632653061225	Los Angeles Clippers	New Orleans Pelicans	1023
+7.14	1.1111111111111112	Sacramento Kings	Denver Nuggets	1023
+1.7692307692307692	2.1	Dallas Mavericks	Atlanta Hawks	1024
+2.25	1.6896551724137931	Brooklyn Nets	Cleveland Cavaliers	1024
+4.0	1.25	New York Knicks	Miami Heat	1024
+4.25	1.2352941176470589	Minnesota Timberwolves	Toronto Raptors	1024
+1.5	2.7	Charlotte Hornets	Chicago Bulls	1024
+1.9523809523809523	1.8695652173913042	Utah Jazz	Houston Rockets	1024
+2.05	1.8	Indiana Pacers	San Antonio Spurs	1024
+2.8	1.4545454545454546	Philadelphia 76ers	Milwaukee Bucks	1024
+1.434782608695652	2.85	Los Angeles Lakers	Phoenix Suns	1024
+1.7142857142857144	2.2	Memphis Grizzlies	Sacramento Kings	1024
+5.5	1.1538461538461537	Washington Wizards	Golden State Warriors	1024
+4.75	1.2	Cleveland Cavaliers	Detroit Pistons	1025
+1.5882352941176472	2.45	Portland Trail Blazers	Orlando Magic	1025
+1.9090909090909092	1.9090909090909092	Boston Celtics	Oklahoma City Thunder	1025
+1.8333333333333335	2.0	Denver Nuggets	Los Angeles Lakers	1025
+5.5	1.1538461538461537	Chicago Bulls	Charlotte Hornets	1026
+1.1	7.5	Golden State Warriors	New York Knicks	1026
+7.5	1.1	Dallas Mavericks	Toronto Raptors	1026
+2.5	1.5555555555555556	Los Angeles Clippers	Houston Rockets	1026
+1.7692307692307692	2.1	Milwaukee Bucks	Minnesota Timberwolves	1026
+4.75	1.2	Brooklyn Nets	New Orleans Pelicans	1026
+1.4166666666666667	2.9	Washington Wizards	Sacramento Kings	1026
+1.625	2.4	Boston Celtics	Detroit Pistons	1027
+1.3846153846153846	3.1	Utah Jazz	New Orleans Pelicans	1027
+2.9	1.4166666666666667	Chicago Bulls	Atlanta Hawks	1027
+1.2857142857142856	3.75	Indiana Pacers	Cleveland Cavaliers	1027
+3.3	1.3571428571428572	Charlotte Hornets	Philadelphia 76ers	1027
+3.75	1.2857142857142856	Phoenix Suns	Memphis Grizzlies	1027
+2.05	1.8	Portland Trail Blazers	Miami Heat	1027
+4.75	1.2	Orlando Magic	Milwaukee Bucks	1027
+1.8695652173913042	1.9523809523809523	Los Angeles Lakers	San Antonio Spurs	1027
+1.1538461538461537	5.5	Golden State Warriors	Brooklyn Nets	1028
+1.5	2.7	Utah Jazz	Dallas Mavericks	1028
+11.0	1.05	Phoenix Suns	Oklahoma City Thunder	1028
+2.45	1.5882352941176472	Washington Wizards	Los Angeles Clippers	1028
+2.45	1.5882352941176472	Portland Trail Blazers	Indiana Pacers	1029
+7.5	1.1	Atlanta Hawks	Philadelphia 76ers	1029
+4.75	1.2	Sacramento Kings	Miami Heat	1029
+2.0	1.8333333333333335	Brooklyn Nets	New York Knicks	1029
+1.1111111111111112	7.0	Golden State Warriors	Chicago Bulls	1029
+1.7692307692307692	2.1	Toronto Raptors	Milwaukee Bucks	1029
+1.8	2.05	Los Angeles Lakers	Minnesota Timberwolves	1029
+3.5	1.3225806451612903	Dallas Mavericks	San Antonio Spurs	1029
+4.75	1.2	New Orleans Pelicans	Denver Nuggets	1029
+2.4	1.625	Miami Heat	Charlotte Hornets	1030
+2.7199999999999998	1.4878048780487805	Atlanta Hawks	Cleveland Cavaliers	1030
+2.7	1.5	Sacramento Kings	Orlando Magic	1030
+4.71	1.2083333333333333	Detroit Pistons	Boston Celtics	1030
+3.15	1.3846153846153846	Philadelphia 76ers	Toronto Raptors	1030
+2.7	1.5	Portland Trail Blazers	Houston Rockets	1030
+1.9523809523809523	1.8695652173913042	Washington Wizards	Memphis Grizzlies	1030
+2.44	1.606060606060606	Los Angeles Clippers	Oklahoma City Thunder	1030
+2.1	1.7692307692307692	Detroit Pistons	Brooklyn Nets	1031
+1.25	4.17	Denver Nuggets	Chicago Bulls	1031
+1.3125	3.6	Utah Jazz	Minnesota Timberwolves	1031
+1.390625	3.12	Indiana Pacers	New York Knicks	1031
+4.859999999999999	1.199203187250996	New Orleans Pelicans	Golden State Warriors	1031
+4.18	1.2487562189054726	Dallas Mavericks	Los Angeles Lakers	1031
+1.2857142857142856	3.81	San Antonio Spurs	Phoenix Suns	1031
+2.0	1.8333333333333335	Oklahoma City Thunder	Charlotte Hornets	1101
+1.434782608695652	2.85	Denver Nuggets	Cleveland Cavaliers	1101
+2.9	1.4166666666666667	Los Angeles Clippers	Philadelphia 76ers	1101
+1.7407407407407407	2.15	Sacramento Kings	Atlanta Hawks	1101
+2.2	1.7142857142857144	Milwaukee Bucks	Boston Celtics	1101
+3.75	1.2857142857142856	New Orleans Pelicans	Portland Trail Blazers	1101
+1.5882352941176472	2.45	Los Angeles Clippers	Orlando Magic	1102
+1.526315789473684	2.6	Houston Rockets	Brooklyn Nets	1102
+1.3225806451612903	3.5	Indiana Pacers	Chicago Bulls	1102
+2.45	1.5882352941176472	Oklahoma City Thunder	Washington Wizards	1102
+3.0	1.4	New York Knicks	Dallas Mavericks	1102
+3.75	1.2857142857142856	Memphis Grizzlies	Utah Jazz	1102
+1.1538461538461537	5.5	Toronto Raptors	Phoenix Suns	1102
+6.5	1.125	Minnesota Timberwolves	Golden State Warriors	1102
+3.75	1.2857142857142856	Detroit Pistons	Philadelphia 76ers	1103
+5.5	1.1538461538461537	Cleveland Cavaliers	Charlotte Hornets	1103
+1.606060606060606	2.42	Boston Celtics	Indiana Pacers	1103
+1.4166666666666667	2.9	Miami Heat	Atlanta Hawks	1103
+1.2352941176470589	4.25	Houston Rockets	Chicago Bulls	1103
+2.05	1.8	New Orleans Pelicans	San Antonio Spurs	1103
+2.6	1.526315789473684	Utah Jazz	Denver Nuggets	1103
+2.35	1.6451612903225805	Los Angeles Lakers	Portland Trail Blazers	1103
+5.5	1.1538461538461537	Sacramento Kings	Milwaukee Bucks	1104
+1.5555555555555556	2.5	Philadelphia 76ers	Brooklyn Nets	1104
+3.4	1.3333333333333333	New York Knicks	Washington Wizards	1104
+3.8	1.2777777777777777	Orlando Magic	San Antonio Spurs	1104
+1.526315789473684	2.6	Memphis Grizzlies	Phoenix Suns	1104
+3.25	1.3636363636363638	Minnesota Timberwolves	Portland Trail Blazers	1104
+2.05	1.8	Toronto Raptors	Los Angeles Lakers	1104
+2.3	1.6666666666666665	Miami Heat	Detroit Pistons	1105
+1.9090909090909092	1.9090909090909092	Houston Rockets	Indiana Pacers	1105
+2.5	1.5555555555555556	Cleveland Cavaliers	Orlando Magic	1105
+2.3	1.6666666666666665	Chicago Bulls	New York Knicks	1105
+2.4	1.625	New Orleans Pelicans	Oklahoma City Thunder	1105
+2.0	1.8333333333333335	Boston Celtics	Denver Nuggets	1105
+2.35	1.6451612903225805	Toronto Raptors	Utah Jazz	1105
+11.0	1.05	Memphis Grizzlies	Golden State Warriors	1105
+2.9	1.4166666666666667	Minnesota Timberwolves	Los Angeles Clippers	1105
+7.0	1.1111111111111112	Atlanta Hawks	Charlotte Hornets	1106
+1.8	2.05	Washington Wizards	Dallas Mavericks	1106
+1.7142857142857144	2.2	Brooklyn Nets	Phoenix Suns	1106
+1.7692307692307692	2.1	Milwaukee Bucks	Portland Trail Blazers	1106
+1.3571428571428572	3.3	Oklahoma City Thunder	Cleveland Cavaliers	1107
+1.6451612903225805	2.35	Detroit Pistons	Orlando Magic	1107
+1.8333333333333335	2.0	New York Knicks	Atlanta Hawks	1107
+1.9523809523809523	1.8695652173913042	San Antonio Spurs	Miami Heat	1107
+2.25	1.6896551724137931	Philadelphia 76ers	Indiana Pacers	1107
+1.625	2.4	Denver Nuggets	Memphis Grizzlies	1107
+6.5	1.125	Chicago Bulls	New Orleans Pelicans	1107
+5.0	1.1818181818181819	Dallas Mavericks	Utah Jazz	1107
+1.1818181818181819	5.0	Toronto Raptors	Sacramento Kings	1107
+3.2	1.3703703703703702	Minnesota Timberwolves	Los Angeles Lakers	1107
+1.4761904761904763	2.75	Houston Rockets	Oklahoma City Thunder	1108
+1.2	4.75	Boston Celtics	Phoenix Suns	1108
+2.8	1.4545454545454546	Los Angeles Clippers	Portland Trail Blazers	1108
+3.2	1.3703703703703702	Milwaukee Bucks	Golden State Warriors	1108
+1.5882352941176472	2.45	Washington Wizards	Orlando Magic	1109
+2.9	1.4166666666666667	Charlotte Hornets	Philadelphia 76ers	1109
+1.4	3.0	Detroit Pistons	Atlanta Hawks	1109
+1.7407407407407407	2.15	Indiana Pacers	Miami Heat	1109
+4.5	1.2222222222222223	Brooklyn Nets	Denver Nuggets	1109
+3.2	1.3703703703703702	Boston Celtics	Utah Jazz	1109
+1.7407407407407407	2.15	Minnesota Timberwolves	Sacramento Kings	1109
+11.0	1.05	New York Knicks	Toronto Raptors	1110
+1.526315789473684	2.6	Milwaukee Bucks	Los Angeles Clippers	1110
+4.75	1.2	Phoenix Suns	New Orleans Pelicans	1110
+2.7	1.5	Cleveland Cavaliers	Chicago Bulls	1110
+2.7	1.5	Philadelphia 76ers	Memphis Grizzlies	1110
+2.45	1.5882352941176472	Washington Wizards	Miami Heat	1110
+4.0	1.25	Brooklyn Nets	Golden State Warriors	1110
+1.5882352941176472	2.45	Houston Rockets	San Antonio Spurs	1110
+2.05	1.8	Oklahoma City Thunder	Dallas Mavericks	1110
+1.4	3.0	Los Angeles Lakers	Sacramento Kings	1110
+2.2	1.7142857142857144	Charlotte Hornets	Detroit Pistons	1111
+2.25	1.6896551724137931	Indiana Pacers	Houston Rockets	1111
+2.42	1.606060606060606	Orlando Magic	New York Knicks	1111
+2.4	1.625	Milwaukee Bucks	Denver Nuggets	1111
+2.1	1.7692307692307692	Boston Celtics	Portland Trail Blazers	1111
+6.5	1.125	Atlanta Hawks	Los Angeles Lakers	1111
+3.8	1.2777777777777777	Orlando Magic	Washington Wizards	1112
+2.2	1.7142857142857144	Philadelphia 76ers	Miami Heat	1112
+5.0	1.1818181818181819	New Orleans Pelicans	Toronto Raptors	1112
+1.7142857142857144	2.2	Dallas Mavericks	Chicago Bulls	1112
+1.5882352941176472	2.45	Utah Jazz	Memphis Grizzlies	1112
+2.45	1.5882352941176472	Brooklyn Nets	Minnesota Timberwolves	1112
+4.0	1.25	Phoenix Suns	Oklahoma City Thunder	1112
+1.7142857142857144	2.2	San Antonio Spurs	Sacramento Kings	1112
+1.5882352941176472	2.45	Golden State Warriors	Los Angeles Clippers	1112
+1.2222222222222223	4.5	Charlotte Hornets	Cleveland Cavaliers	1113
+2.5	1.5555555555555556	Houston Rockets	Denver Nuggets	1113
+7.5	1.1	Atlanta Hawks	Golden State Warriors	1113
+1.4166666666666667	2.9	Philadelphia 76ers	Orlando Magic	1114
+8.0	1.0909090909090908	Cleveland Cavaliers	Washington Wizards	1114
+9.0	1.0714285714285714	Chicago Bulls	Boston Celtics	1114
+1.7407407407407407	2.15	Miami Heat	Brooklyn Nets	1114
+5.0	1.1818181818181819	Detroit Pistons	Toronto Raptors	1114
+5.0	1.1818181818181819	Memphis Grizzlies	Milwaukee Bucks	1114
+1.7692307692307692	2.1	New Orleans Pelicans	Minnesota Timberwolves	1114
+4.2	1.2380952380952381	New York Knicks	Oklahoma City Thunder	1114
+1.4545454545454546	2.8	Utah Jazz	Dallas Mavericks	1114
+1.4	3.0	San Antonio Spurs	Phoenix Suns	1114
+2.15	1.7407407407407407	Portland Trail Blazers	Los Angeles Lakers	1114
+2.6	1.526315789473684	Golden State Warriors	Houston Rockets	1115
+9.5	1.0666666666666667	Atlanta Hawks	Denver Nuggets	1115
+3.3	1.3571428571428572	San Antonio Spurs	Los Angeles Clippers	1115
+2.15	1.7407407407407407	Toronto Raptors	Boston Celtics	1116
+2.8	1.4545454545454546	Miami Heat	Indiana Pacers	1116
+2.25	1.6896551724137931	Utah Jazz	Philadelphia 76ers	1116
+3.2	1.3703703703703702	Brooklyn Nets	Washington Wizards	1116
+3.25	1.3636363636363638	Sacramento Kings	Memphis Grizzlies	1116
+2.0	1.8333333333333335	Portland Trail Blazers	Minnesota Timberwolves	1116
+6.0	1.1428571428571428	New York Knicks	New Orleans Pelicans	1116
+11.0	1.05	Chicago Bulls	Milwaukee Bucks	1116
+1.5555555555555556	2.5	Los Angeles Clippers	Brooklyn Nets	1117
+2.25	1.6896551724137931	Philadelphia 76ers	Charlotte Hornets	1117
+6.5	1.125	Atlanta Hawks	Indiana Pacers	1117
+1.9090909090909092	1.9090909090909092	Denver Nuggets	New Orleans Pelicans	1117
+1.5405405405405406	2.55	Los Angeles Lakers	Orlando Magic	1117
+2.55	1.5405405405405406	Utah Jazz	Boston Celtics	1117
+1.1666666666666667	5.25	Toronto Raptors	Chicago Bulls	1117
+8.5	1.0833333333333333	Sacramento Kings	Houston Rockets	1117
+1.7407407407407407	2.15	Golden State Warriors	Dallas Mavericks	1117
+1.5	2.7	Oklahoma City Thunder	Phoenix Suns	1117
+2.75	1.4761904761904763	Memphis Grizzlies	Minnesota Timberwolves	1118
+1.8695652173913042	1.9523809523809523	Los Angeles Lakers	Miami Heat	1118
+2.7	1.5	New York Knicks	Orlando Magic	1118
+1.8	2.05	Portland Trail Blazers	Washington Wizards	1118
+2.35	1.6451612903225805	Golden State Warriors	San Antonio Spurs	1118
+1.5555555555555556	2.5	Boston Celtics	Charlotte Hornets	1119
+5.0	1.1818181818181819	Cleveland Cavaliers	Detroit Pistons	1119
+1.5555555555555556	2.5	Utah Jazz	Indiana Pacers	1119
+7.0	1.1111111111111112	Phoenix Suns	Philadelphia 76ers	1119
+1.3636363636363638	3.25	Los Angeles Clippers	Atlanta Hawks	1119
+2.35	1.6451612903225805	Dallas Mavericks	Memphis Grizzlies	1119
+3.0	1.4	Denver Nuggets	Milwaukee Bucks	1119
+3.6	1.303030303030303	San Antonio Spurs	New Orleans Pelicans	1119
+1.5	2.7	Oklahoma City Thunder	Sacramento Kings	1119
+1.303030303030303	3.6	Toronto Raptors	Orlando Magic	1120
+1.9090909090909092	1.9090909090909092	Los Angeles Clippers	Washington Wizards	1120
+2.25	1.6896551724137931	Brooklyn Nets	Miami Heat	1120
+1.3333333333333333	3.4	Portland Trail Blazers	New York Knicks	1120
+2.42	1.606060606060606	Indiana Pacers	Charlotte Hornets	1121
+2.45	1.5882352941176472	New Orleans Pelicans	Philadelphia 76ers	1121
+1.25	4.0	Toronto Raptors	Atlanta Hawks	1121
+11.0	1.05	New York Knicks	Boston Celtics	1121
+1.8333333333333335	2.0	Phoenix Suns	Chicago Bulls	1121
+1.2	4.75	Los Angeles Lakers	Cleveland Cavaliers	1121
+4.5	1.2222222222222223	Detroit Pistons	Houston Rockets	1121
+3.6	1.303030303030303	Portland Trail Blazers	Milwaukee Bucks	1121
+1.9090909090909092	1.9090909090909092	Denver Nuggets	Minnesota Timberwolves	1121
+2.8	1.4545454545454546	Brooklyn Nets	Dallas Mavericks	1121
+2.35	1.6451612903225805	Memphis Grizzlies	San Antonio Spurs	1121
+5.0	1.1818181818181819	Sacramento Kings	Utah Jazz	1121
+1.9090909090909092	1.9090909090909092	Oklahoma City Thunder	Golden State Warriors	1121
+1.8	2.05	Minnesota Timberwolves	Brooklyn Nets	1123
+2.55	1.558659217877095	Memphis Grizzlies	Los Angeles Clippers	1123
+1.5555555555555556	2.55	Houston Rockets	Detroit Pistons	1123
+1.2857142857142856	3.81	Boston Celtics	Atlanta Hawks	1123
+1.3333333333333333	3.45	New Orleans Pelicans	New York Knicks	1123
+8.969999999999999	1.0769230769230769	Cleveland Cavaliers	Philadelphia 76ers	1123
+5.35	1.1724137931034484	Washington Wizards	Toronto Raptors	1123
+1.5882352941176472	2.48	Miami Heat	Chicago Bulls	1123
+2.05	1.8	San Antonio Spurs	Indiana Pacers	1123
+3.27	1.3610108303249098	Charlotte Hornets	Oklahoma City Thunder	1123
+9.37	1.0714285714285714	Phoenix Suns	Milwaukee Bucks	1123
+4.17	1.25	Orlando Magic	Denver Nuggets	1123
+1.9345794392523366	1.8771929824561404	Portland Trail Blazers	Golden State Warriors	1123
+2.25	1.6896551724137931	Utah Jazz	Los Angeles Lakers	1123
+1.303030303030303	3.67	Houston Rockets	Cleveland Cavaliers	1124
+6.2	1.1379310344827587	Chicago Bulls	Minnesota Timberwolves	1124
+2.99	1.4166666666666667	Denver Nuggets	Oklahoma City Thunder	1124
+2.3899999999999997	1.6289308176100628	New Orleans Pelicans	Washington Wizards	1124
+1.7142857142857144	2.2	Boston Celtics	Dallas Mavericks	1124
+3.22	1.3703703703703702	Sacramento Kings	Golden State Warriors	1124
+4.98	1.1915708812260537	San Antonio Spurs	Milwaukee Bucks	1124
+3.75	1.2857142857142856	Orlando Magic	Los Angeles Lakers	1125
+4.0	1.25	Phoenix Suns	Detroit Pistons	1125
+1.3333333333333333	3.4	Charlotte Hornets	Atlanta Hawks	1125
+1.5	2.7	Philadelphia 76ers	Brooklyn Nets	1125
+3.85	1.2702702702702702	New York Knicks	Memphis Grizzlies	1125
+7.5	1.1	Miami Heat	Toronto Raptors	1125
+1.5555555555555556	2.5	Utah Jazz	Sacramento Kings	1125
+2.5	1.5555555555555556	Los Angeles Clippers	Portland Trail Blazers	1125
+1.5	2.7	Milwaukee Bucks	Charlotte Hornets	1126
+1.4166666666666667	2.9	Minnesota Timberwolves	Cleveland Cavaliers	1126
+2.05	1.8	Houston Rockets	Washington Wizards	1126
+1.3571428571428572	3.3	San Antonio Spurs	Chicago Bulls	1126
+2.1	1.7692307692307692	Boston Celtics	New Orleans Pelicans	1126
+2.7	1.5	Indiana Pacers	Utah Jazz	1126
+3.4	1.3333333333333333	Orlando Magic	Golden State Warriors	1126
+3.75	1.2857142857142856	New York Knicks	Detroit Pistons	1127
+3.6	1.303030303030303	Atlanta Hawks	Miami Heat	1127
+1.4	3.0	Toronto Raptors	Memphis Grizzlies	1127
+2.3	1.6666666666666665	Los Angeles Lakers	Denver Nuggets	1127
+1.6896551724137931	2.25	Indiana Pacers	Phoenix Suns	1127
+7.5	1.1	Atlanta Hawks	Charlotte Hornets	1128
+8.5	1.0833333333333333	New York Knicks	Philadelphia 76ers	1128
+1.5882352941176472	2.45	Utah Jazz	Brooklyn Nets	1128
+3.0	1.4	Dallas Mavericks	Houston Rockets	1128
+12.0	1.04	Chicago Bulls	Milwaukee Bucks	1128
+2.55	1.5405405405405406	San Antonio Spurs	Minnesota Timberwolves	1128
+3.3	1.3571428571428572	Washington Wizards	New Orleans Pelicans	1128
+8.5	1.0833333333333333	Cleveland Cavaliers	Oklahoma City Thunder	1128
+5.0	1.1818181818181819	Orlando Magic	Portland Trail Blazers	1128
+7.0	1.1111111111111112	Phoenix Suns	Los Angeles Clippers	1128
+4.75	1.2	Golden State Warriors	Toronto Raptors	1129
+2.8	1.4545454545454546	Indiana Pacers	Los Angeles Lakers	1129
+1.7407407407407407	2.15	Los Angeles Clippers	Sacramento Kings	1129
+9.5	1.0666666666666667	Cleveland Cavaliers	Boston Celtics	1130
+2.1	1.7692307692307692	Utah Jazz	Charlotte Hornets	1130
+4.4	1.2272727272727273	Chicago Bulls	Detroit Pistons	1130
+4.4	1.2272727272727273	Washington Wizards	Philadelphia 76ers	1130
+1.6896551724137931	2.25	Memphis Grizzlies	Brooklyn Nets	1130
+1.6666666666666665	2.3	New Orleans Pelicans	Miami Heat	1130
+9.5	1.0666666666666667	Atlanta Hawks	Oklahoma City Thunder	1130
+1.5555555555555556	2.5	Houston Rockets	San Antonio Spurs	1130
+1.526315789473684	2.6	Orlando Magic	Phoenix Suns	1130
+2.5	1.5555555555555556	Dallas Mavericks	Los Angeles Lakers	1130
+2.05	1.8	Denver Nuggets	Portland Trail Blazers	1130
+1.2352941176470589	4.25	Milwaukee Bucks	New York Knicks	1201
+1.4761904761904763	2.75	Golden State Warriors	Detroit Pistons	1201
+3.25	1.3636363636363638	Brooklyn Nets	Washington Wizards	1201
+1.0833333333333333	8.5	Toronto Raptors	Cleveland Cavaliers	1201
+10.0	1.0625	Chicago Bulls	Houston Rockets	1201
+2.05	1.8	Boston Celtics	Minnesota Timberwolves	1201
+1.8	2.05	Indiana Pacers	Sacramento Kings	1201
+7.0	1.1111111111111112	Phoenix Suns	Los Angeles Lakers	1202
+2.3	1.6666666666666665	New Orleans Pelicans	Charlotte Hornets	1202
+1.5555555555555556	2.5	Utah Jazz	Miami Heat	1202
+3.25	1.3636363636363638	Memphis Grizzlies	Philadelphia 76ers	1202
+1.625	2.4	Los Angeles Clippers	Dallas Mavericks	1202
+1.9090909090909092	1.9090909090909092	Portland Trail Blazers	San Antonio Spurs	1202
+1.7407407407407407	2.15	Oklahoma City Thunder	Detroit Pistons	1203
+1.125	6.5	Golden State Warriors	Atlanta Hawks	1203
+3.1	1.3846153846153846	Cleveland Cavaliers	Brooklyn Nets	1203
+1.7692307692307692	2.1	Washington Wizards	New York Knicks	1203
+3.4	1.3333333333333333	Denver Nuggets	Toronto Raptors	1203
+1.7142857142857144	2.2	Houston Rockets	Minnesota Timberwolves	1203
+2.05	1.8	Los Angeles Clippers	New Orleans Pelicans	1203
+4.2	1.2380952380952381	Chicago Bulls	Indiana Pacers	1204
+2.25	1.6896551724137931	Orlando Magic	Miami Heat	1204
+2.05	1.8	Portland Trail Blazers	Dallas Mavericks	1204
+1.4166666666666667	2.9	Sacramento Kings	Phoenix Suns	1204
+3.75	1.2857142857142856	San Antonio Spurs	Utah Jazz	1204
+1.1176470588235294	6.75	Golden State Warriors	Cleveland Cavaliers	1205
+1.5	2.7	Denver Nuggets	Orlando Magic	1205
+1.625	2.4	Washington Wizards	Atlanta Hawks	1205
+1.3703703703703702	3.2	Oklahoma City Thunder	Brooklyn Nets	1205
+2.1	1.7692307692307692	Los Angeles Clippers	Memphis Grizzlies	1205
+3.6	1.303030303030303	Detroit Pistons	Milwaukee Bucks	1205
+2.7	1.5	Charlotte Hornets	Minnesota Timberwolves	1205
+2.8	1.4545454545454546	Dallas Mavericks	New Orleans Pelicans	1205
+3.2	1.3703703703703702	Philadelphia 76ers	Toronto Raptors	1205
+4.0	1.25	San Antonio Spurs	Los Angeles Lakers	1205
+9.5	1.0666666666666667	New York Knicks	Boston Celtics	1206
+9.0	1.0714285714285714	Phoenix Suns	Portland Trail Blazers	1206
+2.05	1.8	Houston Rockets	Utah Jazz	1206
+2.0	1.8333333333333335	Denver Nuggets	Charlotte Hornets	1207
+2.15	1.7407407407407407	Philadelphia 76ers	Detroit Pistons	1207
+2.45	1.5882352941176472	Indiana Pacers	Orlando Magic	1207
+1.2380952380952381	4.2	Toronto Raptors	Brooklyn Nets	1207
+1.6451612903225805	2.35	Sacramento Kings	Cleveland Cavaliers	1207
+1.2	4.75	Oklahoma City Thunder	Chicago Bulls	1207
+2.9	1.4166666666666667	Memphis Grizzlies	New Orleans Pelicans	1207
+1.8333333333333335	2.0	Los Angeles Lakers	San Antonio Spurs	1207
+1.2380952380952381	4.2	Miami Heat	Phoenix Suns	1207
+2.1	1.7692307692307692	Golden State Warriors	Milwaukee Bucks	1207
+1.5917159763313609	2.46	Houston Rockets	Dallas Mavericks	1208
+2.7199999999999998	1.4878048780487805	Sacramento Kings	Indiana Pacers	1208
+1.434782608695652	2.92	Denver Nuggets	Atlanta Hawks	1208
+1.2857142857142856	3.81	Washington Wizards	Cleveland Cavaliers	1208
+2.05	1.8	Brooklyn Nets	New York Knicks	1208
+1.289855072463768	3.78	Boston Celtics	Chicago Bulls	1208
+2.2	1.7142857142857144	Los Angeles Lakers	Memphis Grizzlies	1208
+2.44	1.606060606060606	Minnesota Timberwolves	Portland Trail Blazers	1208
+5.28	1.1754385964912282	Miami Heat	Los Angeles Clippers	1208
+1.7142857142857144	2.2	New Orleans Pelicans	Detroit Pistons	1209
+2.75	1.4761904761904763	Milwaukee Bucks	Toronto Raptors	1209
+1.5555555555555556	2.5	Utah Jazz	San Antonio Spurs	1209
+1.4	3.0	Charlotte Hornets	New York Knicks	1209
+3.0	1.4	Washington Wizards	Indiana Pacers	1210
+7.0	1.1111111111111112	Detroit Pistons	Philadelphia 76ers	1210
+2.2	1.7142857142857144	New Orleans Pelicans	Boston Celtics	1210
+1.7692307692307692	2.1	Sacramento Kings	Chicago Bulls	1210
+5.25	1.1666666666666667	Cleveland Cavaliers	Milwaukee Bucks	1210
+2.8	1.4545454545454546	Utah Jazz	Oklahoma City Thunder	1210
+2.6	1.526315789473684	Orlando Magic	Dallas Mavericks	1210
+2.4	1.625	Memphis Grizzlies	Denver Nuggets	1210
+1.1666666666666667	5.25	Los Angeles Clippers	Phoenix Suns	1210
+5.25	1.1666666666666667	Minnesota Timberwolves	Golden State Warriors	1210
+2.8	1.4545454545454546	Miami Heat	Los Angeles Lakers	1210
+3.25	1.3636363636363638	Portland Trail Blazers	Houston Rockets	1211
+8.75	1.0769230769230769	Phoenix Suns	San Antonio Spurs	1211
+1.625	2.4	Toronto Raptors	Los Angeles Clippers	1211
+2.85	1.434782608695652	Detroit Pistons	Charlotte Hornets	1212
+1.8695652173913042	1.9523809523809523	New York Knicks	Cleveland Cavaliers	1212
+1.7692307692307692	2.1	Milwaukee Bucks	Indiana Pacers	1212
+3.1	1.3846153846153846	Brooklyn Nets	Philadelphia 76ers	1212
+1.5555555555555556	2.5	Boston Celtics	Washington Wizards	1212
+2.45	1.5882352941176472	Portland Trail Blazers	Memphis Grizzlies	1212
+1.7142857142857144	2.2	Oklahoma City Thunder	New Orleans Pelicans	1212
+5.0	1.1818181818181819	Atlanta Hawks	Dallas Mavericks	1212
+4.25	1.2352941176470589	Miami Heat	Utah Jazz	1212
+1.6666666666666665	2.3	Minnesota Timberwolves	Sacramento Kings	1212
+3.75	1.2857142857142856	Toronto Raptors	Golden State Warriors	1212
+3.0	1.4	Los Angeles Lakers	Houston Rockets	1213
+2.3	1.6666666666666665	Los Angeles Clippers	San Antonio Spurs	1213
+2.9	1.4166666666666667	Chicago Bulls	Orlando Magic	1213
+1.3846153846153846	3.1	Dallas Mavericks	Phoenix Suns	1213
+7.5	1.1	Atlanta Hawks	Boston Celtics	1214
+5.25	1.1666666666666667	New York Knicks	Charlotte Hornets	1214
+2.3	1.6666666666666665	Washington Wizards	Brooklyn Nets	1214
+1.1818181818181819	5.0	Milwaukee Bucks	Cleveland Cavaliers	1214
+2.3	1.6666666666666665	Indiana Pacers	Philadelphia 76ers	1214
+2.6	1.526315789473684	Miami Heat	Memphis Grizzlies	1214
+1.7692307692307692	2.1	Oklahoma City Thunder	Denver Nuggets	1214
+1.8	2.05	Toronto Raptors	Portland Trail Blazers	1214
+1.2702702702702702	3.85	Golden State Warriors	Sacramento Kings	1214
+1.3846153846153846	3.1	Utah Jazz	Orlando Magic	1215
+1.8333333333333335	2.0	Los Angeles Lakers	Charlotte Hornets	1215
+1.7692307692307692	2.1	Boston Celtics	Detroit Pistons	1215
+1.5	2.7	Houston Rockets	Memphis Grizzlies	1215
+6.0	1.1428571428571428	Chicago Bulls	San Antonio Spurs	1215
+3.25	1.3636363636363638	Los Angeles Clippers	Oklahoma City Thunder	1215
+1.2857142857142856	3.75	Minnesota Timberwolves	Phoenix Suns	1215
+3.5	1.3225806451612903	Atlanta Hawks	Brooklyn Nets	1216
+1.2	4.75	Philadelphia 76ers	Cleveland Cavaliers	1216
+7.5	1.1	New York Knicks	Indiana Pacers	1216
+1.6451612903225805	2.35	Los Angeles Lakers	Washington Wizards	1216
+2.6	1.526315789473684	Sacramento Kings	Dallas Mavericks	1216
+3.0	1.4	Miami Heat	New Orleans Pelicans	1216
+2.42	1.606060606060606	Toronto Raptors	Denver Nuggets	1216
+1.6666666666666665	2.3	Milwaukee Bucks	Detroit Pistons	1217
+1.8	2.05	Phoenix Suns	New York Knicks	1217
+2.8	1.4545454545454546	Utah Jazz	Houston Rockets	1217
+3.8	1.2777777777777777	Sacramento Kings	Minnesota Timberwolves	1217
+8.5	1.0833333333333333	Chicago Bulls	Oklahoma City Thunder	1217
+2.0	1.8333333333333335	Philadelphia 76ers	San Antonio Spurs	1217
+8.75	1.0769230769230769	Memphis Grizzlies	Golden State Warriors	1217
+2.0	1.8333333333333335	Portland Trail Blazers	Los Angeles Clippers	1217
+8.5	1.0833333333333333	Cleveland Cavaliers	Indiana Pacers	1218
+1.625	2.4	Washington Wizards	Atlanta Hawks	1218
+1.8333333333333335	2.0	Los Angeles Lakers	Brooklyn Nets	1218
+2.7	1.5	Dallas Mavericks	Denver Nuggets	1218
+9.5	1.0666666666666667	Cleveland Cavaliers	Charlotte Hornets	1219
+1.6451612903225805	2.35	San Antonio Spurs	Orlando Magic	1219
+8.5	1.0833333333333333	New York Knicks	Philadelphia 76ers	1219
+8.0	1.0909090909090908	Phoenix Suns	Boston Celtics	1219
+2.55	1.5405405405405406	Indiana Pacers	Toronto Raptors	1219
+1.8	2.05	Brooklyn Nets	Chicago Bulls	1219
+7.0	1.1111111111111112	Washington Wizards	Houston Rockets	1219
+4.5	1.2222222222222223	New Orleans Pelicans	Milwaukee Bucks	1219
+3.0	1.4	Detroit Pistons	Minnesota Timberwolves	1219
+1.7692307692307692	2.1	Golden State Warriors	Utah Jazz	1219
+3.1	1.3846153846153846	Memphis Grizzlies	Portland Trail Blazers	1219
+1.5	2.7	Oklahoma City Thunder	Sacramento Kings	1219
+1.6666666666666665	2.3	Houston Rockets	Miami Heat	1220
+2.35	1.6451612903225805	Dallas Mavericks	Los Angeles Clippers	1220
+2.5	1.5555555555555556	Detroit Pistons	Charlotte Hornets	1221
+7.0	1.1111111111111112	Cleveland Cavaliers	Toronto Raptors	1221
+1.6896551724137931	2.25	Indiana Pacers	Brooklyn Nets	1221
+2.2	1.7142857142857144	Atlanta Hawks	New York Knicks	1221
+1.8	2.05	Milwaukee Bucks	Boston Celtics	1221
+1.625	2.4	Orlando Magic	Chicago Bulls	1221
+2.5	1.5555555555555556	Minnesota Timberwolves	San Antonio Spurs	1221
+2.0	1.8333333333333335	Utah Jazz	Portland Trail Blazers	1221
+2.05	1.8	Memphis Grizzlies	Sacramento Kings	1221
+2.8	1.4545454545454546	New Orleans Pelicans	Los Angeles Lakers	1221
+2.2	1.7142857142857144	Denver Nuggets	Los Angeles Clippers	1222
+2.6	1.526315789473684	Phoenix Suns	Washington Wizards	1222
+4.2	1.2380952380952381	Toronto Raptors	Philadelphia 76ers	1222
+2.6	1.526315789473684	San Antonio Spurs	Houston Rockets	1222
+1.8	2.05	Milwaukee Bucks	Miami Heat	1222
+7.0	1.1111111111111112	Dallas Mavericks	Golden State Warriors	1222
+2.05	1.8	Oklahoma City Thunder	Utah Jazz	1222
+4.75	1.2	Atlanta Hawks	Detroit Pistons	1223
+6.0	1.1428571428571428	Washington Wizards	Indiana Pacers	1223
+3.75	1.2857142857142856	Charlotte Hornets	Boston Celtics	1223
+4.5	1.2222222222222223	Phoenix Suns	Brooklyn Nets	1223
+1.9523809523809523	1.8695652173913042	Chicago Bulls	Cleveland Cavaliers	1223
+2.2	1.7142857142857144	Miami Heat	Orlando Magic	1223
+1.8695652173913042	1.9523809523809523	New Orleans Pelicans	Sacramento Kings	1223
+3.4	1.3333333333333333	Minnesota Timberwolves	Oklahoma City Thunder	1223
+6.0	1.1428571428571428	Los Angeles Clippers	Golden State Warriors	1223
+3.75	1.2857142857142856	Dallas Mavericks	Portland Trail Blazers	1223
+2.8	1.4545454545454546	Memphis Grizzlies	Los Angeles Lakers	1223
+1.1666666666666667	5.25	Milwaukee Bucks	New York Knicks	1225
+1.8333333333333335	2.0	Oklahoma City Thunder	Houston Rockets	1225
+2.75	1.4761904761904763	Philadelphia 76ers	Boston Celtics	1225
+4.75	1.2	Los Angeles Lakers	Golden State Warriors	1225
+3.4	1.3333333333333333	Portland Trail Blazers	Utah Jazz	1225
+2.6	1.526315789473684	Washington Wizards	Detroit Pistons	1226
+2.85	1.434782608695652	Phoenix Suns	Orlando Magic	1226
+1.3571428571428572	3.3	Indiana Pacers	Atlanta Hawks	1226
+2.0	1.8333333333333335	Charlotte Hornets	Brooklyn Nets	1226
+1.7692307692307692	2.1	Toronto Raptors	Miami Heat	1226
+1.5405405405405406	2.55	Minnesota Timberwolves	Chicago Bulls	1226
+5.0	1.1818181818181819	Cleveland Cavaliers	Memphis Grizzlies	1226
+2.1	1.7692307692307692	New Orleans Pelicans	Dallas Mavericks	1226
+2.5	1.5555555555555556	Denver Nuggets	San Antonio Spurs	1226
+2.7	1.5	Sacramento Kings	Los Angeles Clippers	1226
+1.6896551724137931	2.25	Boston Celtics	Houston Rockets	1227
+10.5	1.0555555555555556	New York Knicks	Milwaukee Bucks	1227
+2.55	1.5405405405405406	Los Angeles Lakers	Sacramento Kings	1227
+4.5	1.2222222222222223	Portland Trail Blazers	Golden State Warriors	1227
+2.7	1.5	Philadelphia 76ers	Utah Jazz	1227
+2.7	1.5	Brooklyn Nets	Charlotte Hornets	1228
+3.4	1.3333333333333333	Detroit Pistons	Indiana Pacers	1228
+1.5	2.7	Toronto Raptors	Orlando Magic	1228
+2.7	1.5	Chicago Bulls	Washington Wizards	1228
+5.5	1.1538461538461537	Cleveland Cavaliers	Miami Heat	1228
+4.75	1.2	Atlanta Hawks	Minnesota Timberwolves	1228
+2.48	1.5714285714285714	Dallas Mavericks	New Orleans Pelicans	1228
+2.6	1.526315789473684	San Antonio Spurs	Denver Nuggets	1228
+1.526315789473684	2.6	Oklahoma City Thunder	Phoenix Suns	1228
+1.3225806451612903	3.5	Los Angeles Clippers	Los Angeles Lakers	1228
+6.0	1.1428571428571428	Brooklyn Nets	Milwaukee Bucks	1229
+1.625	2.4	Houston Rockets	New Orleans Pelicans	1229
+1.5882352941176472	2.45	Charlotte Hornets	Washington Wizards	1229
+2.5	1.5555555555555556	Cleveland Cavaliers	Atlanta Hawks	1229
+1.5882352941176472	2.45	Boston Celtics	Memphis Grizzlies	1229
+8.0	1.0909090909090908	New York Knicks	Utah Jazz	1229
+1.4761904761904763	2.75	Denver Nuggets	Phoenix Suns	1229
+1.434782608695652	2.85	Golden State Warriors	Portland Trail Blazers	1229
+2.2	1.7142857142857144	San Antonio Spurs	Los Angeles Clippers	1229
+2.05	1.8	Detroit Pistons	Orlando Magic	1230
+2.42	1.606060606060606	Minnesota Timberwolves	Miami Heat	1230
+6.5	1.125	Chicago Bulls	Toronto Raptors	1230
+1.7142857142857144	2.2	Oklahoma City Thunder	Dallas Mavericks	1230
+2.35	1.6451612903225805	Philadelphia 76ers	Portland Trail Blazers	1230
+2.1	1.7692307692307692	Sacramento Kings	Los Angeles Lakers	1230
+9.0	1.0714285714285714	Atlanta Hawks	Indiana Pacers	1231
+3.9	1.263157894736842	Orlando Magic	Charlotte Hornets	1231
+2.6	1.526315789473684	Memphis Grizzlies	Houston Rockets	1231
+1.8695652173913042	1.9523809523809523	Boston Celtics	San Antonio Spurs	1231
+2.0	1.8333333333333335	Minnesota Timberwolves	New Orleans Pelicans	1231
+3.7	1.2941176470588236	Dallas Mavericks	Oklahoma City Thunder	1231
+1.1538461538461537	5.5	Golden State Warriors	Phoenix Suns	1231
+1.9523809523809523	1.8695652173913042	Utah Jazz	Toronto Raptors	101
+5.25	1.1666666666666667	Detroit Pistons	Milwaukee Bucks	101
+9.0	1.0714285714285714	New York Knicks	Denver Nuggets	101
+1.8333333333333335	2.0	Portland Trail Blazers	Sacramento Kings	101
+1.8	2.05	Philadelphia 76ers	Los Angeles Clippers	101
+2.05	1.8	Dallas Mavericks	Charlotte Hornets	102
+1.434782608695652	2.85	Miami Heat	Cleveland Cavaliers	102
+3.1	1.3846153846153846	Atlanta Hawks	Washington Wizards	102
+1.8	2.05	New Orleans Pelicans	Brooklyn Nets	102
+3.3	1.3571428571428572	Minnesota Timberwolves	Boston Celtics	102
+1.8333333333333335	2.0	Orlando Magic	Chicago Bulls	102
+3.1	1.3846153846153846	Detroit Pistons	Memphis Grizzlies	102
+1.5882352941176472	2.45	Philadelphia 76ers	Phoenix Suns	102
+1.4166666666666667	2.9	Oklahoma City Thunder	Los Angeles Lakers	102
+2.4	1.625	Toronto Raptors	San Antonio Spurs	103
+1.5882352941176472	2.45	Denver Nuggets	Sacramento Kings	103
+4.2	1.2380952380952381	Houston Rockets	Golden State Warriors	103
+1.1818181818181819	5.0	Utah Jazz	Cleveland Cavaliers	104
+2.5	1.5555555555555556	Dallas Mavericks	Boston Celtics	104
+1.3333333333333333	3.4	Indiana Pacers	Chicago Bulls	104
+2.5	1.5555555555555556	Brooklyn Nets	Memphis Grizzlies	104
+3.35	1.3448275862068966	Washington Wizards	Miami Heat	104
+2.5	1.5555555555555556	Orlando Magic	Minnesota Timberwolves	104
+10.0	1.0625	Atlanta Hawks	Milwaukee Bucks	104
+1.4761904761904763	2.75	Los Angeles Clippers	Phoenix Suns	104
+3.0	1.4	New York Knicks	Los Angeles Lakers	104
+1.9090909090909092	1.9090909090909092	Oklahoma City Thunder	Portland Trail Blazers	104
+4.75	1.2	Charlotte Hornets	Denver Nuggets	105
+1.5555555555555556	2.5	Utah Jazz	Detroit Pistons	105
+3.25	1.3636363636363638	Dallas Mavericks	Philadelphia 76ers	105
+1.1818181818181819	5.0	New Orleans Pelicans	Cleveland Cavaliers	105
+2.9	1.4166666666666667	Toronto Raptors	Milwaukee Bucks	105
+4.2	1.2380952380952381	Memphis Grizzlies	San Antonio Spurs	105
+2.15	1.7407407407407407	Houston Rockets	Portland Trail Blazers	105
+1.263157894736842	3.9	Golden State Warriors	Sacramento Kings	105
+1.7692307692307692	2.1	Brooklyn Nets	Chicago Bulls	106
+3.4	1.3333333333333333	Orlando Magic	Los Angeles Clippers	106
+4.0	1.25	Los Angeles Lakers	Minnesota Timberwolves	106
+1.3333333333333333	3.4	Miami Heat	Atlanta Hawks	106
+6.0	1.1428571428571428	Washington Wizards	Oklahoma City Thunder	106
+1.9090909090909092	1.9090909090909092	Indiana Pacers	Toronto Raptors	106
+2.0	1.8333333333333335	Charlotte Hornets	Phoenix Suns	106
+1.6666666666666665	2.3	San Antonio Spurs	Detroit Pistons	107
+6.0	1.1428571428571428	Brooklyn Nets	Boston Celtics	107
+2.0	1.8333333333333335	Denver Nuggets	Houston Rockets	107
+2.85	1.434782608695652	Utah Jazz	Milwaukee Bucks	107
+2.7	1.5	Memphis Grizzlies	New Orleans Pelicans	107
+3.5	1.3225806451612903	Los Angeles Lakers	Dallas Mavericks	107
+6.5	1.125	New York Knicks	Portland Trail Blazers	107
+2.6	1.526315789473684	Orlando Magic	Sacramento Kings	107
+1.1666666666666667	5.25	Indiana Pacers	Cleveland Cavaliers	108
+4.0	1.25	Washington Wizards	Philadelphia 76ers	108
+2.1	1.7692307692307692	Denver Nuggets	Miami Heat	108
+9.0	1.0714285714285714	Atlanta Hawks	Toronto Raptors	108
+4.0	1.25	Minnesota Timberwolves	Oklahoma City Thunder	108
+1.5555555555555556	2.5	Sacramento Kings	Phoenix Suns	108
+17.0	1.0166666666666666	New York Knicks	Golden State Warriors	108
+3.25	1.3636363636363638	Charlotte Hornets	Los Angeles Clippers	108
+3.5	1.3225806451612903	Indiana Pacers	Boston Celtics	109
+1.5882352941176472	2.45	Philadelphia 76ers	Washington Wizards	109
+4.0	1.25	Atlanta Hawks	Brooklyn Nets	109
+1.8	2.05	Milwaukee Bucks	Houston Rockets	109
+1.6666666666666665	2.3	San Antonio Spurs	Memphis Grizzlies	109
+10.5	1.0555555555555556	Cleveland Cavaliers	New Orleans Pelicans	109
+6.5	1.125	Phoenix Suns	Dallas Mavericks	109
+5.0	1.1818181818181819	Orlando Magic	Utah Jazz	109
+5.25	1.1666666666666667	Chicago Bulls	Portland Trail Blazers	109
+2.05	1.8	Detroit Pistons	Los Angeles Lakers	109
+1.6451612903225805	2.35	Boston Celtics	Miami Heat	110
+2.85	1.434782608695652	Los Angeles Clippers	Denver Nuggets	110
+1.8	2.05	Oklahoma City Thunder	San Antonio Spurs	110
+3.8	1.2777777777777777	Detroit Pistons	Sacramento Kings	110
+5.5	1.1538461538461537	Atlanta Hawks	Philadelphia 76ers	111
+1.7407407407407407	2.15	Milwaukee Bucks	Washington Wizards	111
+1.25	4.0	Indiana Pacers	New York Knicks	111
+5.5	1.1538461538461537	Brooklyn Nets	Toronto Raptors	111
+10.0	1.0625	Cleveland Cavaliers	Houston Rockets	111
+2.6	1.526315789473684	Dallas Mavericks	Minnesota Timberwolves	111
+3.2	1.3703703703703702	Charlotte Hornets	Portland Trail Blazers	111
+4.0	1.25	Los Angeles Lakers	Utah Jazz	111
+12.0	1.04	Chicago Bulls	Golden State Warriors	111
+3.6	1.303030303030303	Detroit Pistons	Los Angeles Clippers	112
+2.45	1.5882352941176472	Memphis Grizzlies	Miami Heat	112
+1.2857142857142856	3.75	Boston Celtics	Orlando Magic	112
+1.8	2.05	New Orleans Pelicans	Minnesota Timberwolves	112
+3.1	1.3846153846153846	San Antonio Spurs	Oklahoma City Thunder	112
+1.2	4.75	Denver Nuggets	Phoenix Suns	112
+3.0	1.4	Charlotte Hornets	Sacramento Kings	112
+7.0	1.1111111111111112	Chicago Bulls	Utah Jazz	112
+1.2	4.75	Philadelphia 76ers	New York Knicks	113
+1.4545454545454546	2.8	Toronto Raptors	Washington Wizards	113
+1.1818181818181819	5.0	Milwaukee Bucks	Atlanta Hawks	113
+1.4545454545454546	2.8	Houston Rockets	Orlando Magic	113
+1.3846153846153846	3.1	Golden State Warriors	Dallas Mavericks	113
+2.6	1.526315789473684	Portland Trail Blazers	Denver Nuggets	113
+5.5	1.1538461538461537	Cleveland Cavaliers	Los Angeles Lakers	113
+1.7142857142857144	2.2	Boston Celtics	Brooklyn Nets	114
+2.45	1.5882352941176472	Memphis Grizzlies	Houston Rockets	114
+3.8	1.2777777777777777	Charlotte Hornets	San Antonio Spurs	114
+3.8	1.2777777777777777	Detroit Pistons	Utah Jazz	114
+2.1	1.7692307692307692	Portland Trail Blazers	Sacramento Kings	114
+1.8333333333333335	2.0	New Orleans Pelicans	Los Angeles Clippers	114
+5.5	1.1538461538461537	Phoenix Suns	Indiana Pacers	115
+3.1	1.3846153846153846	Minnesota Timberwolves	Philadelphia 76ers	115
+1.1818181818181819	5.0	Oklahoma City Thunder	Atlanta Hawks	115
+4.5	1.2222222222222223	Miami Heat	Milwaukee Bucks	115
+1.7407407407407407	2.15	Golden State Warriors	Denver Nuggets	115
+3.4	1.3333333333333333	Chicago Bulls	Los Angeles Lakers	115
+2.45	1.5882352941176472	Orlando Magic	Detroit Pistons	116
+2.25	1.6896551724137931	Toronto Raptors	Boston Celtics	116
+3.0	1.4	Brooklyn Nets	Houston Rockets	116
+1.3636363636363638	3.25	Milwaukee Bucks	Memphis Grizzlies	116
+2.0	1.8333333333333335	San Antonio Spurs	Dallas Mavericks	116
+10.5	1.0555555555555556	Cleveland Cavaliers	Portland Trail Blazers	116
+3.6	1.303030303030303	New Orleans Pelicans	Golden State Warriors	116
+2.0	1.8333333333333335	Utah Jazz	Los Angeles Clippers	116
+3.6	1.303030303030303	New York Knicks	Washington Wizards	117
+2.25	1.6896551724137931	Sacramento Kings	Charlotte Hornets	117
+2.3	1.6666666666666665	Philadelphia 76ers	Indiana Pacers	117
+4.5	1.2222222222222223	Phoenix Suns	Toronto Raptors	117
+10.0	1.0625	Chicago Bulls	Denver Nuggets	117
+5.25	1.1666666666666667	Los Angeles Lakers	Oklahoma City Thunder	117
+5.5	1.1538461538461537	Memphis Grizzlies	Boston Celtics	118
+2.25	1.6896551724137931	Miami Heat	Detroit Pistons	118
+2.25	1.6896551724137931	Brooklyn Nets	Orlando Magic	118
+2.1	1.7692307692307692	San Antonio Spurs	Minnesota Timberwolves	118
+13.0	1.0333333333333334	Cleveland Cavaliers	Utah Jazz	118
+1.3333333333333333	3.4	Golden State Warriors	Los Angeles Clippers	118
+2.3	1.6666666666666665	New Orleans Pelicans	Portland Trail Blazers	118
+2.45	1.5882352941176472	Oklahoma City Thunder	Philadelphia 76ers	119
+3.5	1.3225806451612903	Phoenix Suns	Charlotte Hornets	119
+1.8	2.05	Sacramento Kings	Detroit Pistons	119
+3.75	1.2857142857142856	Dallas Mavericks	Indiana Pacers	119
+1.1428571428571428	6.0	Milwaukee Bucks	Orlando Magic	119
+1.303030303030303	3.6	Boston Celtics	Atlanta Hawks	119
+6.0	1.1428571428571428	Memphis Grizzlies	Toronto Raptors	119
+1.5555555555555556	2.5	Miami Heat	Chicago Bulls	119
+3.6	1.303030303030303	Los Angeles Lakers	Houston Rockets	119
+16.0	1.02	Cleveland Cavaliers	Denver Nuggets	119
+3.8	1.2777777777777777	Charlotte Hornets	Indiana Pacers	120
+8.5	1.0833333333333333	Phoenix Suns	Minnesota Timberwolves	120
+5.0	1.1818181818181819	Los Angeles Clippers	San Antonio Spurs	120
+1.2	4.75	Oklahoma City Thunder	New York Knicks	121
+1.6666666666666665	2.3	Chicago Bulls	Cleveland Cavaliers	121
+7.0	1.1111111111111112	Dallas Mavericks	Milwaukee Bucks	121
+2.9	1.4166666666666667	Detroit Pistons	Washington Wizards	121
+1.9523809523809523	1.8695652173913042	Orlando Magic	Atlanta Hawks	121
+2.4	1.625	Sacramento Kings	Brooklyn Nets	121
+2.25	1.6896551724137931	New Orleans Pelicans	Memphis Grizzlies	121
+4.5	1.2222222222222223	Miami Heat	Boston Celtics	121
+2.7	1.5	Houston Rockets	Philadelphia 76ers	121
+2.75	1.4761904761904763	Portland Trail Blazers	Utah Jazz	121
+1.0666666666666667	9.5	Golden State Warriors	Los Angeles Lakers	121
+6.0	1.1428571428571428	Sacramento Kings	Toronto Raptors	122
+2.45	1.5882352941176472	Portland Trail Blazers	Oklahoma City Thunder	122
+2.3	1.6666666666666665	Los Angeles Clippers	Dallas Mavericks	122
+1.526315789473684	2.6	Minnesota Timberwolves	Phoenix Suns	122
+3.3	1.3571428571428572	Toronto Raptors	Indiana Pacers	123
+12.0	1.04	Cleveland Cavaliers	Boston Celtics	123
+2.8	1.4545454545454546	Orlando Magic	Brooklyn Nets	123
+3.0	1.4	Los Angeles Clippers	Miami Heat	123
+1.25	4.0	Houston Rockets	New York Knicks	123
+2.05	1.8	Atlanta Hawks	Chicago Bulls	123
+2.15	1.7407407407407407	Charlotte Hornets	Memphis Grizzlies	123
+2.7	1.5	Detroit Pistons	New Orleans Pelicans	123
+2.4	1.625	San Antonio Spurs	Philadelphia 76ers	123
+2.5	1.5555555555555556	Denver Nuggets	Utah Jazz	123
+9.5	1.0666666666666667	New Orleans Pelicans	Oklahoma City Thunder	124
+1.2	4.75	Golden State Warriors	Washington Wizards	124
+1.25	4.0	Portland Trail Blazers	Phoenix Suns	124
+2.15	1.7407407407407407	Minnesota Timberwolves	Los Angeles Lakers	124
+2.4	1.625	Washington Wizards	Orlando Magic	125
+4.3	1.2380952380952381	New York Knicks	Brooklyn Nets	125
+1.25	4.17	Miami Heat	Cleveland Cavaliers	125
+1.4761904761904763	2.76	Los Angeles Clippers	Chicago Bulls	125
+1.606060606060606	2.44	Toronto Raptors	Houston Rockets	125
+2.15	1.7407407407407407	Sacramento Kings	Memphis Grizzlies	125
+2.76	1.4761904761904763	Detroit Pistons	Dallas Mavericks	125
+7.14	1.1111111111111112	Charlotte Hornets	Milwaukee Bucks	125
+11.98	1.0454545454545454	Phoenix Suns	Denver Nuggets	125
+5.59	1.1612903225806452	Minnesota Timberwolves	Utah Jazz	125
+1.5	2.7	San Antonio Spurs	New Orleans Pelicans	126
+1.4761904761904763	2.75	Indiana Pacers	Memphis Grizzlies	126
+1.5882352941176472	2.45	Golden State Warriors	Boston Celtics	126
+5.5	1.1538461538461537	Philadelphia 76ers	Denver Nuggets	126
+4.25	1.2352941176470589	Atlanta Hawks	Portland Trail Blazers	126
+2.8	1.4545454545454546	Cleveland Cavaliers	Chicago Bulls	127
+2.4	1.625	Sacramento Kings	Los Angeles Clippers	127
+1.9090909090909092	1.9090909090909092	Milwaukee Bucks	Oklahoma City Thunder	127
+1.5555555555555556	2.5	Toronto Raptors	Dallas Mavericks	127
+4.5	1.2222222222222223	Orlando Magic	Houston Rockets	127
+1.4166666666666667	2.9	Utah Jazz	Minnesota Timberwolves	127
+2.6	1.526315789473684	Washington Wizards	San Antonio Spurs	127
+1.4761904761904763	2.75	Miami Heat	New York Knicks	127
+3.6	1.303030303030303	Phoenix Suns	Los Angeles Lakers	127
+7.5	1.1	New York Knicks	Charlotte Hornets	128
+1.2857142857142856	3.75	Golden State Warriors	Indiana Pacers	128
+4.5	1.2222222222222223	Brooklyn Nets	Boston Celtics	128
+1.4166666666666667	2.9	Denver Nuggets	Memphis Grizzlies	128
+3.1	1.3846153846153846	Atlanta Hawks	Los Angeles Clippers	128
+1.2857142857142856	3.75	Washington Wizards	Cleveland Cavaliers	129
+1.3333333333333333	3.4	Milwaukee Bucks	Detroit Pistons	129
+1.6451612903225805	2.35	Oklahoma City Thunder	Orlando Magic	129
+3.4	1.3333333333333333	Chicago Bulls	Brooklyn Nets	129
+10.0	1.0625	New Orleans Pelicans	Houston Rockets	129
+10.0	1.0625	Phoenix Suns	San Antonio Spurs	129
+1.2941176470588236	3.7	Philadelphia 76ers	Los Angeles Lakers	129
+3.6	1.303030303030303	Charlotte Hornets	Boston Celtics	130
+6.25	1.1333333333333333	Chicago Bulls	Miami Heat	130
+1.3333333333333333	3.4	Dallas Mavericks	New York Knicks	130
+2.35	1.6451612903225805	Memphis Grizzlies	Minnesota Timberwolves	130
+1.2	4.75	Denver Nuggets	New Orleans Pelicans	130
+1.8695652173913042	1.9523809523809523	Indiana Pacers	Washington Wizards	130
+2.8	1.4545454545454546	Atlanta Hawks	Sacramento Kings	130
+1.6896551724137931	2.25	Utah Jazz	Portland Trail Blazers	130
+3.7	1.2941176470588236	Dallas Mavericks	Detroit Pistons	131
+2.45	1.5882352941176472	Indiana Pacers	Orlando Magic	131
+2.2	1.7142857142857144	Milwaukee Bucks	Toronto Raptors	131
+3.9	1.263157894736842	Brooklyn Nets	San Antonio Spurs	131
+4.0	1.25	Philadelphia 76ers	Golden State Warriors	131
+1.7692307692307692	2.1	Los Angeles Lakers	Los Angeles Clippers	131
+3.9	1.263157894736842	Memphis Grizzlies	Charlotte Hornets	201
+1.0625	10.0	Boston Celtics	New York Knicks	201
+1.5882352941176472	2.45	Oklahoma City Thunder	Miami Heat	201
+7.5	1.1	Atlanta Hawks	Utah Jazz	201
+2.45	1.5882352941176472	Houston Rockets	Denver Nuggets	201
+2.2	1.7142857142857144	Los Angeles Clippers	Detroit Pistons	202
+3.5	1.3225806451612903	Chicago Bulls	Charlotte Hornets	202
+2.35	1.6451612903225805	Brooklyn Nets	Orlando Magic	202
+1.3773584905660377	3.15	Milwaukee Bucks	Washington Wizards	202
+1.4166666666666667	2.9	Dallas Mavericks	Cleveland Cavaliers	202
+2.05	1.8	Indiana Pacers	Miami Heat	202
+12.0	1.04	Los Angeles Lakers	Golden State Warriors	202
+6.0	1.1428571428571428	New Orleans Pelicans	San Antonio Spurs	202
+2.05	1.8	Denver Nuggets	Minnesota Timberwolves	202
+2.15	1.7407407407407407	Atlanta Hawks	Phoenix Suns	202
+3.4	1.3333333333333333	Houston Rockets	Utah Jazz	202
+1.625	2.4	Philadelphia 76ers	Sacramento Kings	202
+1.7142857142857144	2.2	Memphis Grizzlies	New York Knicks	203
+2.5	1.5555555555555556	Oklahoma City Thunder	Boston Celtics	203
+5.0	1.1818181818181819	Los Angeles Clippers	Toronto Raptors	203
+1.8	2.05	Denver Nuggets	Detroit Pistons	204
+3.5	1.3225806451612903	Atlanta Hawks	Washington Wizards	204
+1.303030303030303	3.6	Milwaukee Bucks	Brooklyn Nets	204
+1.606060606060606	2.42	Indiana Pacers	New Orleans Pelicans	204
+1.25	4.0	Houston Rockets	Phoenix Suns	204
+1.7407407407407407	2.15	San Antonio Spurs	Sacramento Kings	204
+2.4	1.625	Los Angeles Clippers	Charlotte Hornets	205
+1.125	6.5	Boston Celtics	Cleveland Cavaliers	205
+1.6896551724137931	2.25	Los Angeles Lakers	Indiana Pacers	205
+1.5882352941176472	2.45	Detroit Pistons	New York Knicks	205
+1.5555555555555556	2.5	Minnesota Timberwolves	Memphis Grizzlies	205
+4.75	1.2	Orlando Magic	Oklahoma City Thunder	205
+2.05	1.8	Toronto Raptors	Philadelphia 76ers	205
+3.6	1.303030303030303	Miami Heat	Portland Trail Blazers	205
+1.606060606060606	2.42	Denver Nuggets	Brooklyn Nets	206
+1.8	2.05	New Orleans Pelicans	Chicago Bulls	206
+7.0	1.1111111111111112	Washington Wizards	Milwaukee Bucks	206
+2.9	1.4166666666666667	Charlotte Hornets	Dallas Mavericks	206
+12.0	1.04	Phoenix Suns	Utah Jazz	206
+1.526315789473684	2.6	Houston Rockets	Sacramento Kings	206
+12.0	1.04	San Antonio Spurs	Golden State Warriors	206
+3.15	1.3773584905660377	Los Angeles Clippers	Indiana Pacers	207
+2.45	1.5882352941176472	Minnesota Timberwolves	Orlando Magic	207
+1.3703703703703702	3.2	Toronto Raptors	Atlanta Hawks	207
+4.5	1.2222222222222223	Los Angeles Lakers	Boston Celtics	207
+9.5	1.0666666666666667	Memphis Grizzlies	Oklahoma City Thunder	207
+3.0	1.4	San Antonio Spurs	Portland Trail Blazers	207
+3.9	1.263157894736842	New York Knicks	Detroit Pistons	208
+3.4	1.3333333333333333	Denver Nuggets	Philadelphia 76ers	208
+5.0	1.1818181818181819	Cleveland Cavaliers	Washington Wizards	208
+4.0	1.25	Chicago Bulls	Brooklyn Nets	208
+1.4	3.0	Milwaukee Bucks	Dallas Mavericks	208
+1.04	12.0	Golden State Warriors	Phoenix Suns	208
+2.9	1.4166666666666667	Minnesota Timberwolves	New Orleans Pelicans	208
+2.4	1.625	Miami Heat	Sacramento Kings	208
+3.75	1.2857142857142856	San Antonio Spurs	Utah Jazz	209
+10.5	1.0555555555555556	Cleveland Cavaliers	Indiana Pacers	209
+1.7407407407407407	2.15	Charlotte Hornets	Atlanta Hawks	209
+1.05	11.0	Toronto Raptors	New York Knicks	209
+8.0	1.0909090909090908	Los Angeles Clippers	Boston Celtics	209
+1.7407407407407407	2.15	Washington Wizards	Chicago Bulls	209
+1.8695652173913042	1.9523809523809523	New Orleans Pelicans	Memphis Grizzlies	209
+2.25	1.6896551724137931	Oklahoma City Thunder	Houston Rockets	209
+3.2	1.3703703703703702	Orlando Magic	Milwaukee Bucks	209
+1.6451612903225805	2.35	Portland Trail Blazers	Dallas Mavericks	210
+3.6	1.303030303030303	Los Angeles Lakers	Philadelphia 76ers	210
+4.5	1.2222222222222223	Phoenix Suns	Sacramento Kings	210
+1.8333333333333335	2.0	Orlando Magic	Atlanta Hawks	210
+10.0	1.0625	Miami Heat	Golden State Warriors	210
+2.0	1.8333333333333335	New York Knicks	Cleveland Cavaliers	211
+3.0	1.4	Washington Wizards	Detroit Pistons	211
+2.9	1.4166666666666667	Charlotte Hornets	Indiana Pacers	211
+5.5	1.1538461538461537	Brooklyn Nets	Toronto Raptors	211
+1.125	6.5	Milwaukee Bucks	Chicago Bulls	211
+6.5	1.125	Dallas Mavericks	Houston Rockets	211
+2.45	1.5882352941176472	Los Angeles Clippers	Minnesota Timberwolves	211
+2.7	1.5	Portland Trail Blazers	Oklahoma City Thunder	211
+5.25	1.1666666666666667	Miami Heat	Denver Nuggets	211
+1.4	3.0	Los Angeles Lakers	Atlanta Hawks	212
+1.3125	3.55	San Antonio Spurs	Memphis Grizzlies	212
+2.6	1.526315789473684	Orlando Magic	New Orleans Pelicans	212
+3.4	1.3333333333333333	Boston Celtics	Philadelphia 76ers	212
+4.5	1.2222222222222223	Utah Jazz	Golden State Warriors	212
+1.2857142857142856	3.75	Brooklyn Nets	Cleveland Cavaliers	213
+1.526315789473684	2.6	Milwaukee Bucks	Indiana Pacers	213
+2.45	1.5882352941176472	Detroit Pistons	Boston Celtics	213
+1.1538461538461537	5.5	Philadelphia 76ers	New York Knicks	213
+5.0	1.1818181818181819	Washington Wizards	Toronto Raptors	213
+2.0	1.8333333333333335	Memphis Grizzlies	Chicago Bulls	213
+1.5555555555555556	2.5	Houston Rockets	Minnesota Timberwolves	213
+2.35	1.6451612903225805	Miami Heat	Dallas Mavericks	213
+3.75	1.2857142857142856	Sacramento Kings	Denver Nuggets	213
+4.0	1.25	Phoenix Suns	Los Angeles Clippers	213
+1.7692307692307692	2.1	Golden State Warriors	Portland Trail Blazers	213
+2.55	1.5555555555555556	Charlotte Hornets	Orlando Magic	214
+3.67	1.303030303030303	New York Knicks	Atlanta Hawks	214
+1.5	2.7	Oklahoma City Thunder	New Orleans Pelicans	214
+2.0	1.8333333333333335	Phoenix Suns	Cleveland Cavaliers	221
+2.9	1.4166666666666667	Miami Heat	Philadelphia 76ers	221
+1.625	2.4	Portland Trail Blazers	Brooklyn Nets	221
+3.1	1.3846153846153846	Boston Celtics	Milwaukee Bucks	221
+8.0	1.0909090909090908	Sacramento Kings	Golden State Warriors	221
+1.6666666666666665	2.3	Houston Rockets	Los Angeles Lakers	221
+2.8	1.4545454545454546	Washington Wizards	Charlotte Hornets	222
+2.8	1.4545454545454546	New Orleans Pelicans	Indiana Pacers	222
+3.9	1.263157894736842	Chicago Bulls	Orlando Magic	222
+4.0	1.25	San Antonio Spurs	Toronto Raptors	222
+1.526315789473684	2.6	Detroit Pistons	Atlanta Hawks	222
+1.5882352941176472	2.45	Minnesota Timberwolves	New York Knicks	222
+1.6451612903225805	2.35	Los Angeles Clippers	Memphis Grizzlies	222
+1.303030303030303	3.6	Denver Nuggets	Dallas Mavericks	222
+2.7	1.5	Utah Jazz	Oklahoma City Thunder	222
+2.1	1.7692307692307692	Portland Trail Blazers	Philadelphia 76ers	223
+2.3	1.6666666666666665	Phoenix Suns	Atlanta Hawks	223
+2.35	1.6451612903225805	Brooklyn Nets	Charlotte Hornets	223
+2.1	1.7692307692307692	Memphis Grizzlies	Cleveland Cavaliers	223
+1.3703703703703702	3.2	Los Angeles Lakers	New Orleans Pelicans	223
+1.9090909090909092	1.9090909090909092	Indiana Pacers	Washington Wizards	223
+2.4	1.625	Detroit Pistons	Miami Heat	223
+1.1538461538461537	5.5	Boston Celtics	Chicago Bulls	223
+3.0	1.4	Sacramento Kings	Oklahoma City Thunder	223
+6.75	1.1176470588235294	Houston Rockets	Golden State Warriors	223
+8.5	1.0833333333333333	Minnesota Timberwolves	Milwaukee Bucks	223
+6.75	1.1176470588235294	Dallas Mavericks	Utah Jazz	223
+3.5	1.3225806451612903	Orlando Magic	Toronto Raptors	224
+4.75	1.2	Los Angeles Clippers	Denver Nuggets	224
+1.2	4.75	San Antonio Spurs	New York Knicks	224
+1.2352941176470589	4.25	Golden State Warriors	Charlotte Hornets	225
+1.2	4.75	Portland Trail Blazers	Cleveland Cavaliers	225
+2.15	1.7407407407407407	Indiana Pacers	Detroit Pistons	225
+2.0	1.8333333333333335	San Antonio Spurs	Brooklyn Nets	225
+3.9	1.263157894736842	Phoenix Suns	Miami Heat	225
+1.263157894736842	3.9	Milwaukee Bucks	Chicago Bulls	225
+8.0	1.0909090909090908	Atlanta Hawks	Houston Rockets	225
+1.4545454545454546	2.8	Los Angeles Lakers	Memphis Grizzlies	225
+2.45	1.5882352941176472	Sacramento Kings	Minnesota Timberwolves	225
+1.7142857142857144	2.2	Philadelphia 76ers	New Orleans Pelicans	225
+2.45	1.5882352941176472	Dallas Mavericks	Los Angeles Clippers	225
+1.303030303030303	3.6	Orlando Magic	New York Knicks	226
+2.42	1.606060606060606	Boston Celtics	Toronto Raptors	226
+2.42	1.606060606060606	Oklahoma City Thunder	Denver Nuggets	226
+1.4545454545454546	2.8	Houston Rockets	Charlotte Hornets	227
+1.4761904761904763	2.75	Minnesota Timberwolves	Atlanta Hawks	227
+2.8	1.4545454545454546	Washington Wizards	Brooklyn Nets	227
+1.2352941176470589	4.25	Golden State Warriors	Miami Heat	227
+2.2	1.7142857142857144	Portland Trail Blazers	Boston Celtics	227
+2.35	1.6451612903225805	Chicago Bulls	Memphis Grizzlies	227
+1.8695652173913042	1.9523809523809523	Indiana Pacers	Dallas Mavericks	227
+2.55	1.5405405405405406	Detroit Pistons	San Antonio Spurs	227
+4.75	1.2	Los Angeles Clippers	Utah Jazz	227
+1.3571428571428572	3.3	Milwaukee Bucks	Sacramento Kings	227
+3.3	1.3571428571428572	New Orleans Pelicans	Los Angeles Lakers	227
+2.4	1.625	Minnesota Timberwolves	Indiana Pacers	228
+1.5	2.7	Golden State Warriors	Orlando Magic	228
+2.05	1.8	Cleveland Cavaliers	New York Knicks	228
+4.75	1.2	Miami Heat	Houston Rockets	228
+2.55	1.5405405405405406	Philadelphia 76ers	Oklahoma City Thunder	228
+3.55	1.3125	Utah Jazz	Denver Nuggets	228
+1.8695652173913042	1.9523809523809523	Chicago Bulls	Atlanta Hawks	301
+2.25	1.6896551724137931	Charlotte Hornets	Brooklyn Nets	301
+5.25	1.1666666666666667	Washington Wizards	Boston Celtics	301
+2.8	1.4545454545454546	Portland Trail Blazers	Toronto Raptors	301
+1.5	2.7	New Orleans Pelicans	Phoenix Suns	301
+2.35	1.6451612903225805	Los Angeles Clippers	Sacramento Kings	301
+1.434782608695652	2.85	Milwaukee Bucks	Los Angeles Lakers	301
+1.2352941176470589	4.25	Detroit Pistons	Cleveland Cavaliers	302
+2.35	1.6451612903225805	Orlando Magic	Indiana Pacers	302
+2.1	1.7692307692307692	Brooklyn Nets	Miami Heat	302
+2.7	1.5	Memphis Grizzlies	Dallas Mavericks	302
+1.4761904761904763	2.75	Golden State Warriors	Philadelphia 76ers	302
+2.7	1.5	Oklahoma City Thunder	San Antonio Spurs	302
+9.0	1.0714285714285714	New Orleans Pelicans	Denver Nuggets	302
+1.3225806451612903	3.5	Los Angeles Lakers	Phoenix Suns	302
+2.7	1.5	Milwaukee Bucks	Utah Jazz	302
+1.7407407407407407	2.15	Portland Trail Blazers	Charlotte Hornets	303
+2.1	1.7692307692307692	Houston Rockets	Boston Celtics	303
+2.5	1.5555555555555556	Atlanta Hawks	Chicago Bulls	303
+5.5	1.1538461538461537	New York Knicks	Los Angeles Clippers	303
+1.3846153846153846	3.1	Orlando Magic	Cleveland Cavaliers	303
+1.7407407407407407	2.15	Toronto Raptors	Detroit Pistons	303
+1.9090909090909092	1.9090909090909092	Minnesota Timberwolves	Washington Wizards	303
+5.25	1.1666666666666667	Memphis Grizzlies	Oklahoma City Thunder	303
+2.9	1.4166666666666667	Dallas Mavericks	Brooklyn Nets	304
+4.75	1.2	Atlanta Hawks	Miami Heat	304
+2.05	1.8	Denver Nuggets	San Antonio Spurs	304
+1.0714285714285714	9.0	Milwaukee Bucks	Phoenix Suns	304
+5.0	1.1818181818181819	New Orleans Pelicans	Utah Jazz	304
+6.5	1.125	New York Knicks	Sacramento Kings	304
+2.45	1.5882352941176472	Los Angeles Clippers	Los Angeles Lakers	304
+3.4	1.3333333333333333	Chicago Bulls	Indiana Pacers	305
+2.6	1.526315789473684	Orlando Magic	Philadelphia 76ers	305
+1.4166666666666667	2.9	Portland Trail Blazers	Memphis Grizzlies	305
+1.7692307692307692	2.1	Oklahoma City Thunder	Minnesota Timberwolves	305
+2.4	1.625	Houston Rockets	Toronto Raptors	305
+3.4	1.3333333333333333	Boston Celtics	Golden State Warriors	305
+2.45	1.5882352941176472	Miami Heat	Charlotte Hornets	306
+2.7	1.5	Minnesota Timberwolves	Detroit Pistons	306
+2.9	1.4166666666666667	Dallas Mavericks	Washington Wizards	306
+1.3846153846153846	3.1	San Antonio Spurs	Atlanta Hawks	306
+5.0	1.1818181818181819	Cleveland Cavaliers	Brooklyn Nets	306
+1.5555555555555556	2.5	Philadelphia 76ers	Chicago Bulls	306
+1.4761904761904763	2.75	Utah Jazz	New Orleans Pelicans	306
+2.5	1.5555555555555556	New York Knicks	Phoenix Suns	306
+1.7692307692307692	2.1	Boston Celtics	Sacramento Kings	306
+1.4545454545454546	2.8	Denver Nuggets	Los Angeles Lakers	306
+5.5	1.1538461538461537	Indiana Pacers	Milwaukee Bucks	307
+2.45	1.5882352941176472	Oklahoma City Thunder	Portland Trail Blazers	307
+2.5	1.5555555555555556	Washington Wizards	Charlotte Hornets	308
+3.4	1.3333333333333333	Dallas Mavericks	Orlando Magic	308
+1.5882352941176472	2.45	Detroit Pistons	Chicago Bulls	308
+4.0	1.25	Philadelphia 76ers	Houston Rockets	308
+1.5	2.7	Utah Jazz	Memphis Grizzlies	308
+4.4	1.2272727272727273	Cleveland Cavaliers	Miami Heat	308
+1.2222222222222223	4.5	Toronto Raptors	New Orleans Pelicans	308
+3.3	1.3571428571428572	Denver Nuggets	Golden State Warriors	308
+2.1	1.7692307692307692	Oklahoma City Thunder	Los Angeles Clippers	308
+1.4	3.0	Sacramento Kings	New York Knicks	309
+1.5	2.7	Brooklyn Nets	Atlanta Hawks	309
+3.4	1.3333333333333333	Washington Wizards	Minnesota Timberwolves	309
+1.3125	3.55	Boston Celtics	Los Angeles Lakers	309
+7.5	1.1	Charlotte Hornets	Milwaukee Bucks	309
+7.5	1.1	Phoenix Suns	Portland Trail Blazers	309
+4.5	1.2222222222222223	Chicago Bulls	Detroit Pistons	310
+2.05	1.8	Toronto Raptors	Miami Heat	310
+3.25	1.3636363636363638	Indiana Pacers	Philadelphia 76ers	310
+2.0	1.8333333333333335	New Orleans Pelicans	Atlanta Hawks	310
+1.9090909090909092	1.9090909090909092	Orlando Magic	Memphis Grizzlies	310
+1.2222222222222223	4.5	Houston Rockets	Dallas Mavericks	310
+3.25	1.3636363636363638	New York Knicks	Minnesota Timberwolves	310
+1.7142857142857144	2.2	Milwaukee Bucks	San Antonio Spurs	310
+16.0	1.02	Phoenix Suns	Golden State Warriors	310
+1.2222222222222223	4.5	Toronto Raptors	Cleveland Cavaliers	311
+2.1	1.7692307692307692	Sacramento Kings	Washington Wizards	311
+2.1	1.7692307692307692	Detroit Pistons	Brooklyn Nets	311
+5.25	1.1666666666666667	Charlotte Hornets	Houston Rockets	311
+2.45	1.5882352941176472	Oklahoma City Thunder	Utah Jazz	311
+1.7692307692307692	2.1	Boston Celtics	Los Angeles Clippers	311
+7.0	1.1111111111111112	New York Knicks	Indiana Pacers	312
+12.0	1.04	Cleveland Cavaliers	Philadelphia 76ers	312
+1.7692307692307692	2.1	Los Angeles Lakers	Chicago Bulls	312
+1.625	2.4	San Antonio Spurs	Dallas Mavericks	312
+1.1538461538461537	5.5	Milwaukee Bucks	New Orleans Pelicans	312
+5.0	1.1818181818181819	Minnesota Timberwolves	Denver Nuggets	312
+1.5555555555555556	2.5	Portland Trail Blazers	Los Angeles Clippers	312
+3.3	1.3571428571428572	Brooklyn Nets	Oklahoma City Thunder	313
+2.1	1.7692307692307692	Orlando Magic	Washington Wizards	313
+1.8695652173913042	1.9523809523809523	Memphis Grizzlies	Atlanta Hawks	313
+2.1	1.7692307692307692	Detroit Pistons	Miami Heat	313
+2.5	1.5555555555555556	Golden State Warriors	Houston Rockets	313
+1.25	4.0	Utah Jazz	Phoenix Suns	313
+1.9090909090909092	1.9090909090909092	Oklahoma City Thunder	Indiana Pacers	314
+4.0	1.25	Cleveland Cavaliers	Orlando Magic	314
+3.9	1.263157894736842	Sacramento Kings	Boston Celtics	314
+3.5	1.3225806451612903	Los Angeles Lakers	Toronto Raptors	314
+4.2	1.2380952380952381	Minnesota Timberwolves	Utah Jazz	314
+6.75	1.1176470588235294	Dallas Mavericks	Denver Nuggets	314
+8.5	1.0833333333333333	Los Angeles Lakers	Detroit Pistons	315
+6.0	1.1428571428571428	Sacramento Kings	Philadelphia 76ers	315
+2.35	1.6451612903225805	Charlotte Hornets	Washington Wizards	315
+8.0	1.0909090909090908	Phoenix Suns	Houston Rockets	315
+1.4166666666666667	2.9	Milwaukee Bucks	Miami Heat	315
+1.2272727272727273	4.4	Portland Trail Blazers	New Orleans Pelicans	315
+9.0	1.0714285714285714	New York Knicks	San Antonio Spurs	315
+4.25	1.2352941176470589	Chicago Bulls	Los Angeles Clippers	315
+6.0	1.1428571428571428	Atlanta Hawks	Boston Celtics	316
+2.6	1.526315789473684	Phoenix Suns	New Orleans Pelicans	316
+2.05	1.8	Memphis Grizzlies	Washington Wizards	316
+2.8	1.4545454545454546	Cleveland Cavaliers	Dallas Mavericks	316
+2.05	1.8	Golden State Warriors	Oklahoma City Thunder	316
+2.25	1.6896551724137931	Portland Trail Blazers	San Antonio Spurs	316
+3.5	1.3225806451612903	Indiana Pacers	Denver Nuggets	316
+4.4	1.2272727272727273	Brooklyn Nets	Utah Jazz	316
+1.4761904761904763	2.75	Los Angeles Lakers	New York Knicks	317
+2.35	1.6451612903225805	Charlotte Hornets	Miami Heat	317
+3.1	1.3846153846153846	Philadelphia 76ers	Milwaukee Bucks	317
+1.9090909090909092	1.9090909090909092	Toronto Raptors	Detroit Pistons	317
+4.25	1.2352941176470589	Atlanta Hawks	Orlando Magic	317
+3.3	1.3571428571428572	Chicago Bulls	Sacramento Kings	317
+5.25	1.1666666666666667	Minnesota Timberwolves	Houston Rockets	317
+3.1	1.3846153846153846	Brooklyn Nets	Los Angeles Clippers	317
+1.3846153846153846	3.1	Detroit Pistons	Cleveland Cavaliers	318
+1.4166666666666667	2.9	Utah Jazz	Washington Wizards	318
+2.7	1.5	Denver Nuggets	Boston Celtics	318
+8.5	1.0833333333333333	New York Knicks	Toronto Raptors	318
+2.9	1.4166666666666667	Miami Heat	Oklahoma City Thunder	318
+1.6666666666666665	2.3	Golden State Warriors	San Antonio Spurs	318
+2.75	1.4761904761904763	New Orleans Pelicans	Dallas Mavericks	318
+2.2	1.7142857142857144	Chicago Bulls	Phoenix Suns	318
+2.75	1.4761904761904763	Indiana Pacers	Portland Trail Blazers	318
+2.0	1.8333333333333335	Philadelphia 76ers	Charlotte Hornets	319
+1.2352941176470589	4.25	Houston Rockets	Atlanta Hawks	319
+6.5	1.125	Los Angeles Lakers	Milwaukee Bucks	319
+1.3333333333333333	3.4	Golden State Warriors	Minnesota Timberwolves	319
+2.35	1.6451612903225805	Brooklyn Nets	Sacramento Kings	319
+2.85	1.434782608695652	Indiana Pacers	Los Angeles Clippers	319
+1.3846153846153846	3.1	Milwaukee Bucks	Cleveland Cavaliers	320
+5.0	1.1818181818181819	New Orleans Pelicans	Orlando Magic	320
+2.45	1.5882352941176472	Boston Celtics	Philadelphia 76ers	320
+1.0714285714285714	9.0	Utah Jazz	New York Knicks	320
+1.5555555555555556	2.5	Washington Wizards	Chicago Bulls	320
+1.3846153846153846	3.1	Houston Rockets	Memphis Grizzlies	320
+3.1	1.3846153846153846	Miami Heat	San Antonio Spurs	320
+2.8	1.4545454545454546	Toronto Raptors	Oklahoma City Thunder	320
+5.25	1.1666666666666667	Dallas Mavericks	Portland Trail Blazers	320
+3.1	1.3846153846153846	Minnesota Timberwolves	Charlotte Hornets	321
+1.25	4.0	Denver Nuggets	Washington Wizards	321
+1.303030303030303	3.6	Utah Jazz	Atlanta Hawks	321
+1.3333333333333333	3.4	Detroit Pistons	Phoenix Suns	321
+4.5	1.2222222222222223	Dallas Mavericks	Sacramento Kings	321
+6.0	1.1428571428571428	Indiana Pacers	Golden State Warriors	321
+6.0	1.1428571428571428	Memphis Grizzlies	Orlando Magic	322
+1.3333333333333333	3.4	Los Angeles Clippers	Cleveland Cavaliers	322
+1.1111111111111112	7.0	Denver Nuggets	New York Knicks	322
+2.15	1.7407407407407407	Oklahoma City Thunder	Toronto Raptors	322
+3.2	1.3703703703703702	San Antonio Spurs	Houston Rockets	322
+3.7	1.2941176470588236	Miami Heat	Milwaukee Bucks	322
+1.7142857142857144	2.2	Brooklyn Nets	Los Angeles Lakers	322
+1.5555555555555556	2.5	Boston Celtics	Charlotte Hornets	323
+2.0	1.8333333333333335	Miami Heat	Washington Wizards	323
+1.303030303030303	3.6	Philadelphia 76ers	Atlanta Hawks	323
+1.1333333333333333	6.25	Utah Jazz	Chicago Bulls	323
+1.9523809523809523	1.8695652173913042	Minnesota Timberwolves	Memphis Grizzlies	323
+9.0	1.0714285714285714	Dallas Mavericks	Golden State Warriors	323
+2.9	1.4166666666666667	Detroit Pistons	Portland Trail Blazers	323
+5.5	1.1538461538461537	Phoenix Suns	Sacramento Kings	323
+1.2222222222222223	4.5	Los Angeles Clippers	New York Knicks	324
+10.0	1.0625	Cleveland Cavaliers	Milwaukee Bucks	324
+1.8	2.05	Denver Nuggets	Indiana Pacers	324
+7.0	1.1111111111111112	Charlotte Hornets	Toronto Raptors	324
+1.1818181818181819	5.0	Houston Rockets	New Orleans Pelicans	324
+1.7407407407407407	2.15	San Antonio Spurs	Boston Celtics	324
+5.25	1.1666666666666667	Detroit Pistons	Golden State Warriors	324
+1.9090909090909092	1.9090909090909092	Sacramento Kings	Los Angeles Lakers	324
+2.15	1.7407407407407407	Philadelphia 76ers	Orlando Magic	325
+1.2857142857142856	3.75	Oklahoma City Thunder	Memphis Grizzlies	325
+10.0	1.0625	Phoenix Suns	Utah Jazz	325
+3.1	1.3846153846153846	Brooklyn Nets	Portland Trail Blazers	325
+1.526315789473684	2.6	San Antonio Spurs	Charlotte Hornets	326
+1.4	3.0	Boston Celtics	Cleveland Cavaliers	326
+2.42	1.606060606060606	Orlando Magic	Miami Heat	326
+11.0	1.05	Chicago Bulls	Toronto Raptors	326
+2.25	1.6896551724137931	Houston Rockets	Milwaukee Bucks	326
+1.6666666666666665	2.3	Los Angeles Clippers	Minnesota Timberwolves	326
+1.6896551724137931	2.25	Atlanta Hawks	New Orleans Pelicans	326
+1.7692307692307692	2.1	Sacramento Kings	Dallas Mavericks	326
+3.75	1.2857142857142856	Detroit Pistons	Denver Nuggets	326
+2.25	1.6896551724137931	Washington Wizards	Los Angeles Lakers	326
+1.2222222222222223	4.5	Portland Trail Blazers	Chicago Bulls	327
+1.1666666666666667	5.25	Golden State Warriors	Memphis Grizzlies	327
+3.4	1.3333333333333333	Indiana Pacers	Oklahoma City Thunder	327
+1.8333333333333335	2.0	Washington Wizards	Phoenix Suns	327
+11.0	1.05	Los Angeles Lakers	Utah Jazz	327
+2.35	1.6451612903225805	Orlando Magic	Detroit Pistons	328
+3.55	1.3125	Brooklyn Nets	Philadelphia 76ers	328
+3.2	1.3703703703703702	Dallas Mavericks	Miami Heat	328
+1.1666666666666667	5.25	Toronto Raptors	New York Knicks	328
+3.2	1.3703703703703702	Denver Nuggets	Houston Rockets	328
+5.5	1.1538461538461537	Los Angeles Clippers	Milwaukee Bucks	328
+1.3773584905660377	3.15	Sacramento Kings	New Orleans Pelicans	328
+7.5	1.1	Cleveland Cavaliers	San Antonio Spurs	328
+3.4	1.3333333333333333	Indiana Pacers	Boston Celtics	329
+1.6896551724137931	2.25	Portland Trail Blazers	Atlanta Hawks	329
+1.1538461538461537	5.5	Golden State Warriors	Minnesota Timberwolves	329
+2.7	1.5	Denver Nuggets	Oklahoma City Thunder	329
+9.5	1.0666666666666667	Washington Wizards	Utah Jazz	329
+1.8	2.05	Charlotte Hornets	Los Angeles Lakers	329
+4.16	1.25062656641604	Cleveland Cavaliers	Los Angeles Clippers	330
+2.66	1.5128205128205128	Boston Celtics	Brooklyn Nets	330
+4.9399999999999995	1.1941747572815533	Sacramento Kings	Houston Rockets	330
+2.7199999999999998	1.4926108374384237	Portland Trail Blazers	Detroit Pistons	330
+2.05	1.8	Orlando Magic	Indiana Pacers	330
+1.3333333333333333	3.45	Miami Heat	New York Knicks	330
+1.1851851851851851	5.1	Toronto Raptors	Chicago Bulls	330
+1.526315789473684	2.63	Philadelphia 76ers	Minnesota Timberwolves	330
+1.7692307692307692	2.1	Memphis Grizzlies	Phoenix Suns	330
+1.7407407407407407	2.15	Milwaukee Bucks	Atlanta Hawks	331
+8.0	1.0909090909090908	Dallas Mavericks	Oklahoma City Thunder	331
+2.35	1.6451612903225805	Los Angeles Lakers	New Orleans Pelicans	331
+5.5	1.1538461538461537	Sacramento Kings	San Antonio Spurs	331
+6.0	1.1428571428571428	Washington Wizards	Denver Nuggets	331
+7.0	1.1111111111111112	Charlotte Hornets	Golden State Warriors	331
+5.25	1.1666666666666667	Memphis Grizzlies	Los Angeles Clippers	331
+2.9	1.4166666666666667	Detroit Pistons	Indiana Pacers	401
+3.4	1.3333333333333333	Miami Heat	Boston Celtics	401
+2.05	1.8	Milwaukee Bucks	Brooklyn Nets	401
+2.42	1.606060606060606	Chicago Bulls	New York Knicks	401
+3.25	1.3636363636363638	Orlando Magic	Toronto Raptors	401
+1.5882352941176472	2.45	Portland Trail Blazers	Minnesota Timberwolves	401
+1.4545454545454546	2.8	Philadelphia 76ers	Dallas Mavericks	401
+6.75	1.1176470588235294	Charlotte Hornets	Utah Jazz	401
+2.1	1.7692307692307692	Cleveland Cavaliers	Phoenix Suns	401
+8.5	1.0833333333333333	Los Angeles Lakers	Oklahoma City Thunder	402
+6.5	1.125	Atlanta Hawks	San Antonio Spurs	402
+1.4	3.0	Houston Rockets	Sacramento Kings	402
+4.25	1.2352941176470589	Denver Nuggets	Golden State Warriors	402
+2.2	1.7142857142857144	Indiana Pacers	Detroit Pistons	403
+8.5	1.0833333333333333	New York Knicks	Orlando Magic	403
+5.0	1.1818181818181819	Chicago Bulls	Washington Wizards	403
+1.5	2.7	Philadelphia 76ers	Atlanta Hawks	403
+1.7692307692307692	2.1	Toronto Raptors	Brooklyn Nets	403
+1.9523809523809523	1.8695652173913042	Boston Celtics	Miami Heat	403
+1.526315789473684	2.6	Charlotte Hornets	New Orleans Pelicans	403
+2.25	1.6896551724137931	Minnesota Timberwolves	Dallas Mavericks	403
+2.7	1.5	San Antonio Spurs	Denver Nuggets	403
+1.1538461538461537	5.5	Utah Jazz	Phoenix Suns	403
+6.25	1.1333333333333333	Memphis Grizzlies	Portland Trail Blazers	403
+1.6896551724137931	2.25	Houston Rockets	Los Angeles Clippers	403
+1.5555555555555556	2.5	Milwaukee Bucks	Philadelphia 76ers	404
+5.0	1.1818181818181819	Cleveland Cavaliers	Sacramento Kings	404
+1.0714285714285714	9.0	Golden State Warriors	Los Angeles Lakers	404
+1.3703703703703702	3.2	Toronto Raptors	Charlotte Hornets	405
+4.25	1.2352941176470589	Atlanta Hawks	Orlando Magic	405
+1.3333333333333333	3.4	San Antonio Spurs	Washington Wizards	405
+17.0	1.0166666666666666	New York Knicks	Houston Rockets	405
+1.9090909090909092	1.9090909090909092	Boston Celtics	Indiana Pacers	405
+1.625	2.4	Miami Heat	Minnesota Timberwolves	405
+3.0	1.4	Detroit Pistons	Oklahoma City Thunder	405
+2.55	1.5405405405405406	Memphis Grizzlies	Dallas Mavericks	405
+5.25	1.1666666666666667	Sacramento Kings	Utah Jazz	405
+1.7142857142857144	2.2	New Orleans Pelicans	Phoenix Suns	405
+3.0	1.4	Portland Trail Blazers	Denver Nuggets	405
+13.0	1.0333333333333334	Cleveland Cavaliers	Golden State Warriors	405
+6.5	1.125	Los Angeles Lakers	Los Angeles Clippers	405
+2.4	1.625	Brooklyn Nets	Milwaukee Bucks	406
+1.1538461538461537	5.5	Philadelphia 76ers	Chicago Bulls	406
+3.0	1.4	Miami Heat	Toronto Raptors	407
+1.2352941176470589	4.25	San Antonio Spurs	Cleveland Cavaliers	407
+1.3333333333333333	3.4	Oklahoma City Thunder	Minnesota Timberwolves	407
+3.25	1.3636363636363638	Charlotte Hornets	Detroit Pistons	407
+2.2	1.7142857142857144	Brooklyn Nets	Indiana Pacers	407
+1.9090909090909092	1.9090909090909092	Dallas Mavericks	Memphis Grizzlies	407
+19.0	1.0125	Phoenix Suns	Houston Rockets	407
+7.5	1.1	Atlanta Hawks	Milwaukee Bucks	407
+2.45	1.5882352941176472	Orlando Magic	Boston Celtics	407
+1.5555555555555556	2.5	Washington Wizards	New York Knicks	407
+7.5	1.1	Los Angeles Clippers	Golden State Warriors	407
+4.5	1.2222222222222223	Denver Nuggets	Portland Trail Blazers	407
+6.5	1.125	New Orleans Pelicans	Sacramento Kings	407
+1.0909090909090908	8.0	Utah Jazz	Los Angeles Lakers	407
+1.2222222222222223	4.5	Charlotte Hornets	Cleveland Cavaliers	409
+8.5	1.0833333333333333	Memphis Grizzlies	Detroit Pistons	409
+2.7	1.5	Boston Celtics	Washington Wizards	409
+3.2	1.3703703703703702	Philadelphia 76ers	Miami Heat	409
+2.1	1.7692307692307692	New York Knicks	Chicago Bulls	409
+1.2857142857142856	3.75	Toronto Raptors	Minnesota Timberwolves	409
+1.2	4.75	Golden State Warriors	New Orleans Pelicans	409
+4.0	1.25	Phoenix Suns	Dallas Mavericks	409
+2.1	1.7692307692307692	Denver Nuggets	Utah Jazz	409
+1.6666666666666665	2.3	Houston Rockets	Oklahoma City Thunder	409
+1.2	4.75	Portland Trail Blazers	Los Angeles Lakers	409
+2.8	1.4545454545454546	Indiana Pacers	Atlanta Hawks	410
+2.7	1.5	Miami Heat	Brooklyn Nets	410
+2.5	1.5555555555555556	Orlando Magic	Charlotte Hornets	410
+1.4761904761904763	2.75	Golden State Warriors	Memphis Grizzlies	410
+1.5	2.7	Oklahoma City Thunder	Milwaukee Bucks	410
+1.2380952380952381	4.2	Detroit Pistons	New York Knicks	410
+3.0	1.4	Chicago Bulls	Philadelphia 76ers	410
+10.0	1.0625	Dallas Mavericks	San Antonio Spurs	410
+8.0	1.0909090909090908	Minnesota Timberwolves	Denver Nuggets	410
+3.8	1.2777777777777777	Utah Jazz	Los Angeles Clippers	410
+2.3	1.6666666666666665	Sacramento Kings	Portland Trail Blazers	410
+3.8	1.2777777777777777	Brooklyn Nets	Philadelphia 76ers	413
+4.75	1.2	Orlando Magic	Toronto Raptors	413
+10.0	1.0625	Los Angeles Clippers	Golden State Warriors	413
+3.2	1.3703703703703702	San Antonio Spurs	Denver Nuggets	413
+4.0	1.25	Indiana Pacers	Boston Celtics	414
+2.3	1.6666666666666665	Oklahoma City Thunder	Portland Trail Blazers	414
+12.0	1.04	Detroit Pistons	Milwaukee Bucks	414
+3.1	1.3846153846153846	Utah Jazz	Houston Rockets	414
+4.5	1.2222222222222223	Brooklyn Nets	Philadelphia 76ers	415
+10.0	1.0625	Los Angeles Clippers	Golden State Warriors	415
+6.5	1.125	Orlando Magic	Toronto Raptors	416
+3.6	1.303030303030303	San Antonio Spurs	Denver Nuggets	416
+1.9523809523809523	1.8695652173913042	Oklahoma City Thunder	Portland Trail Blazers	416
+3.75	1.2857142857142856	Indiana Pacers	Boston Celtics	417
+13.0	1.0333333333333334	Detroit Pistons	Milwaukee Bucks	417
+3.4	1.3333333333333333	Utah Jazz	Houston Rockets	417
+1.8695652173913042	1.9523809523809523	Philadelphia 76ers	Brooklyn Nets	418
+2.63	1.526315789473684	Denver Nuggets	San Antonio Spurs	418
+1.2	4.84	Golden State Warriors	Los Angeles Clippers	418
+1.4545454545454546	2.84	Toronto Raptors	Orlando Magic	419
+2.15	1.7407407407407407	Boston Celtics	Indiana Pacers	419
+3.74	1.2941176470588236	Portland Trail Blazers	Oklahoma City Thunder	419
+1.6578947368421053	2.33	Philadelphia 76ers	Brooklyn Nets	420
+2.44	1.606060606060606	Denver Nuggets	San Antonio Spurs	420
+1.2222222222222223	4.51	Milwaukee Bucks	Detroit Pistons	420
+2.1	1.7692307692307692	Houston Rockets	Utah Jazz	420
+1.625	2.4	Boston Celtics	Indiana Pacers	421
+1.2	4.84	Golden State Warriors	Los Angeles Clippers	421
+1.434782608695652	2.92	Toronto Raptors	Orlando Magic	421
+2.95	1.425531914893617	Portland Trail Blazers	Oklahoma City Thunder	421
+1.1111111111111112	7.14	Milwaukee Bucks	Detroit Pistons	422
+1.7692307692307692	2.1	Houston Rockets	Utah Jazz	422
+6.5	1.1287001287001286	Orlando Magic	Toronto Raptors	423
+4.27	1.2409638554216866	Brooklyn Nets	Philadelphia 76ers	423
+2.94	1.4310344827586206	San Antonio Spurs	Denver Nuggets	423
+2.55	1.5555555555555556	Oklahoma City Thunder	Portland Trail Blazers	423
+4.0600000000000005	1.2597402597402598	Utah Jazz	Houston Rockets	424
+12.98	1.0384615384615385	Los Angeles Clippers	Golden State Warriors	424
+2.3	1.6666666666666665	Denver Nuggets	San Antonio Spurs	425
+1.1666666666666667	5.47	Golden State Warriors	Los Angeles Clippers	426
+3.37	1.3448275862068966	Philadelphia 76ers	Toronto Raptors	427
+3.18	1.3773584905660377	San Antonio Spurs	Denver Nuggets	427
+4.26	1.2439024390243902	Boston Celtics	Milwaukee Bucks	428
+3.34	1.3508771929824561	Houston Rockets	Golden State Warriors	428
+3.45	1.3333333333333333	Philadelphia 76ers	Toronto Raptors	429
+2.62	1.529100529100529	Portland Trail Blazers	Denver Nuggets	429
+3.78	1.289855072463768	Boston Celtics	Milwaukee Bucks	430
+2.99	1.4166666666666667	Houston Rockets	Golden State Warriors	430
+2.55	1.5555555555555556	Portland Trail Blazers	Denver Nuggets	501
+1.8333333333333335	2.0	Toronto Raptors	Philadelphia 76ers	502
+2.1799999999999997	1.7246376811594204	Milwaukee Bucks	Boston Celtics	503
+2.88	1.4444444444444444	Denver Nuggets	Portland Trail Blazers	503
+2.48	1.5882352941176472	Golden State Warriors	Houston Rockets	504
+2.2	1.7142857142857144	Toronto Raptors	Philadelphia 76ers	505
+2.21	1.7142857142857144	Denver Nuggets	Portland Trail Blazers	505
+1.925925925925926	1.8928571428571428	Milwaukee Bucks	Boston Celtics	506
+1.8695652173913042	1.9523809523809523	Golden State Warriors	Houston Rockets	506
+3.11	1.392156862745098	Philadelphia 76ers	Toronto Raptors	507
+2.7	1.5	Portland Trail Blazers	Denver Nuggets	507
+4.029999999999999	1.263157894736842	Boston Celtics	Milwaukee Bucks	508
+3.03	1.4081632653061225	Houston Rockets	Golden State Warriors	508
+1.7936507936507935	2.06	Toronto Raptors	Philadelphia 76ers	509
+2.62	1.5319148936170213	Denver Nuggets	Portland Trail Blazers	509
+3.78	1.289855072463768	Golden State Warriors	Houston Rockets	510
+3.21	1.3773584905660377	Portland Trail Blazers	Denver Nuggets	512
+3.03	1.4081632653061225	Philadelphia 76ers	Toronto Raptors	512
+3.45	1.3333333333333333	Portland Trail Blazers	Golden State Warriors	514
+3.56	1.3174603174603174	Toronto Raptors	Milwaukee Bucks	515
+3.56	1.3174603174603174	Portland Trail Blazers	Golden State Warriors	516
+3.07	1.4	Toronto Raptors	Milwaukee Bucks	517
+2.35	1.6451612903225805	Golden State Warriors	Portland Trail Blazers	518
+2.12	1.7575757575757576	Milwaukee Bucks	Toronto Raptors	519
+1.7874015748031495	2.0700000000000003	Golden State Warriors	Portland Trail Blazers	520
+1.6493506493506493	2.34	Milwaukee Bucks	Toronto Raptors	521
+3.78	1.289855072463768	Toronto Raptors	Milwaukee Bucks	523
+2.1	1.7692307692307692	Milwaukee Bucks	Toronto Raptors	525
+2.15	1.7407407407407407	Golden State Warriors	Toronto Raptors	530
+2.17	1.72992700729927	Golden State Warriors	Toronto Raptors	602
+2.1399999999999997	1.7462686567164178	Toronto Raptors	Golden State Warriors	605
+2.94	1.4291845493562232	Toronto Raptors	Golden State Warriors	607
+1.9345794392523366	1.8849557522123894	Golden State Warriors	Toronto Raptors	610
+2.24	1.6944444444444444	Toronto Raptors	Golden State Warriors	613
